@@ -13,13 +13,13 @@ http://canli.ensonhaber.com/tr/startv/index.m3u8
 http://xrklj56s.rocketcdn.com/eurostar.stream_720p/chunklist.m3u8
 #EXTINF:0 group-title="ULUSAL",KANAL D
 https://kdlive.duhnet.tv/S2/HLS_LIVE/kanaldnp/playlist.m3u8
-#EXTINF:0 group-title="ULUSAL",KANAL D HD
+#EXTINF:0 group-title="ULUSAL",KANAL D SD
 https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_sd.smil/playlist.m3u8
 #EXTINF:0 group-title="ULUSAL",EURO D
 https://2122248074.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
 #EXTINF:0 group-title="ULUSAL",SHOW TV
 https://canli.ensonhaber.com/tr/showtv/index.m3u8
-#EXTINF:0 group-title="ULUSAL",SHOW TV HD
+#EXTINF:0 group-title="ULUSAL",SHOW TV SD
 https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd.smil/playlist.m3u8
 #EXTINF:0 group-title="ULUSAL",SHOW TÜRK
 https://mn-nl.mncdn.com/blutv_showturk/showturk_sd.smil/chunklist_b2096000.m3u8
@@ -27,7 +27,7 @@ https://mn-nl.mncdn.com/blutv_showturk/showturk_sd.smil/chunklist_b2096000.m3u8
 https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd.smil/playlist.m3u8
 #EXTINF:0 group-title="ULUSAL",TV8
 https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_sd.smil/playlist.m3u8
-#EXTINF:0 group-title="ULUSAL",TV8 WEB
+#EXTINF:0 group-title="ULUSAL",TV8 SD
 https://tv8.personamedia.tv/tv8hls?fmt=hls&file=.m3u8
 #EXTINF:0 group-title="ULUSAL",TV8 INT
 https://mn-nl.mncdn.com/blutv_tv8_int/smil:tv8int_sd.smil/playlist.m3u8
@@ -35,7 +35,7 @@ https://mn-nl.mncdn.com/blutv_tv8_int/smil:tv8int_sd.smil/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_tv8_5/tv8_5_sd.smil/playlist.m3u8
 #EXTINF:0 group-title="ULUSAL",KANAL 7
 https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
-#EXTINF:0 group-title="ULUSAL",KANAL 7 HD
+#EXTINF:0 group-title="ULUSAL",KANAL 7 SD
 https://mn-nl.mncdn.com/blutv_kanal7/smil:kanal7_sd.smil/playlist.m3u8
 #EXTINF:0 group-title="ULUSAL",KANAL 7 AVRUPA
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
