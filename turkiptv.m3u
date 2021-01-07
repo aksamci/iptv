@@ -156,8 +156,7 @@ https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17c
 http://51.255.7.18:8080/hls/damar.m3u8
 #EXTINF:0 group-title="MUZIK",ZEYNO TV
 https://yayin.santraltr.com/hls/zeynotv.m3u8
-#EXTINF:0 group-title="MUZIK",SLOW KARADENIZ TV
-http://slowkaradeniztv.yayin.com.tr/slowkaradeniztv/slowkaradeniztv/playlist.m3u8
+
 
 #EXTINF:0 group-title="SINEMA",CRI TÜRK DIZI
 http://cri.aa.net.tr:1935/dizi/dizi/chunklist.m3u8 
