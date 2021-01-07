@@ -1,9 +1,7 @@
-﻿#EXTM3U
+#EXTM3U
 #EXTINF:0 group-title="ULUSAL",TRT1
 https://tv-trt1.live.trt.com.tr/master_720.m3u8
 #EXTINF:0 group-title="ULUSAL",ATV
-http://185.129.1.242/atvhd/mpegts
-#EXTINF:0 group-title="ULUSAL",ATV SD
 https://www.yilmaztv.com/oz/oz.php?channel=atv-canli-izlemek&stream=1&id=26091&p=797fa10c0bb1e0a4467dc7f532390f02&type=m3u8
 #EXTINF:0 group-title="ULUSAL",STAR TV
 http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
