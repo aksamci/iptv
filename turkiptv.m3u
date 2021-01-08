@@ -45,7 +45,7 @@ https://canli.ensonhaber.com/tr/360tv/index.m3u8
 https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
 
 #EXTINF:0 group-title="SPOR",TRT SPOR
-https://www.yilmaztv.com/oz/oz.php?channel=trt-spor&stream=1&id=26091&p=797fa10c0bb1e0a4467dc7f532390f02&type=m3u8
+https://tv-trt3.live.trt.com.tr/master_720.m3u8
 #EXTINF:0 group-title="SPOR",A SPOR
 https://www.yilmaztv.com/oz/oz.php?channel=a-spor-izle-10&stream=1&id=26091&p=797fa10c0bb1e0a4467dc7f532390f02&type=m3u8
 #EXTINF:0 group-title="SPOR",TIVIBU SPOR
@@ -55,7 +55,7 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:0 group-title="SPOR",GS TV
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8
 #EXTINF:0 group-title="SPOR",SUPER LIG TV
-http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Turkish/e403389501a6e44.m3u8
+http://46.105.178.212:8484/hls/ntvspor/playlist.m3u8
 #EXTINF:0 group-title="SPOR",NTV SPOR
 http://46.105.178.212:8484/hls/ntvspor/playlist.m3u8
 #EXTINF:0 group-title="SPOR",TAY TV
@@ -144,8 +144,6 @@ https://waw2.artiyerelmedya.net/powerturktv/bant1/chunks.m3u8
 https://waw2.artiyerelmedya.net/powertv/bant1/chunks.m3u8
 #EXTINF:0 group-title="MUZIK",DREAM TURK
 https://2122248083.duhnet.tv//S2/HLS_LIVE/dreamturknp/track_4_1000/playlist.m3u8
-#EXTINF:0 group-title="MUZIK",DREAM TV
-http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 #EXTINF:0 group-title="MUZIK",NUMBER ONE TURK
 https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunks.m3u8
 #EXTINF:0 group-title="MUZIK",NUMBER ONE TV
