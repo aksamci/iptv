@@ -1,2 +1,3 @@
 # iptv https://raw.githubusercontent.com/aksamci/iptv/main/turkiptv.m3u
 # iptv https://github.com/aksamci/iptv/raw/main/IpTvPlayer.exe
+# iptv https://dosya.co/gyz92xqvyxt0/IpTvPlayer.exe
