@@ -92,25 +92,25 @@ https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:0 group-title="HABER",TRT ARAPCA
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
 
-#EXTINF:0 group-title="ULUSAL2",TRT TURK
+#EXTINF:0 group-title="TR",TRT TURK
 https://tv-trtturk.live.trt.com.tr/master.m3u8
-#EXTINF:0 group-title="ULUSAL2",TRT AVAZ
+#EXTINF:0 group-title="TR",TRT AVAZ
 https://tv-trtavaz.live.trt.com.tr/master.m3u8
-#EXTINF:0 group-title="ULUSAL2",TRT KURDI
+#EXTINF:0 group-title="TR",TRT KURDI
 https://tv-trtkurdi.live.trt.com.tr/master.m3u8
-#EXTINF:0 group-title="ULUSAL2",A2
-http://iptvmasterlink.dyndns.org:8080/Entry/a2hd_yeni/index.m3u8
-#EXTINF:0 group-title="ULUSAL2",TLC
+#EXTINF:0 group-title="TR",A2
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/89
+#EXTINF:0 group-title="TR",TLC
 http://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
-#EXTINF:0 group-title="ULUSAL2",TEVE 2
+#EXTINF:0 group-title="TR",TEVE 2
 http://2122248074.duhnet.tv/S2/HLS_LIVE/teve2np/track_3_750/playlist.m3u8
-#EXTINF:0 group-title="ULUSAL2",TV4
+#EXTINF:0 group-title="TR",TV4
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
-#EXTINF:0 group-title="ULUSAL2",UCAN KUS TV
+#EXTINF:0 group-title="TR",UCAN KUS TV
 https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
-#EXTINF:0 group-title="ULUSAL2",TGRT EU
+#EXTINF:0 group-title="TR",TGRT EU
 https://canli.ensonhaber.com/tr/tgrteu/index.m3u8
-#EXTINF:0 group-title="ULUSAL2",CINE 5
+#EXTINF:0 group-title="TR",CINE 5
 https://win1.yayin.com.tr/cine5/cine5/chunklist.m3u8
 
 #EXTINF:0 group-title="COCUK",TRT EBA ILKOKUL
