@@ -203,6 +203,8 @@ https://usd.nocvp.com/asset/7Gx7kEbk/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_ekoturk/smil:ekoturk_sd.smil/playlist.m3u8
 #EXTINF:0 group-title="YEREL",HALK TV
 https://mn-nl.mncdn.com/blutv_halktv/smil:halktv_sd.smil/playlist.m3u8
+#EXTINF:0 group-title="YEREL",TELE 1
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/140
 #EXTINF:0 group-title="YEREL",AFYON TÜRK TV 
 https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8 
 #EXTINF:0 group-title="YEREL",AHİ TV
