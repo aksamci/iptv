@@ -1,8 +1,10 @@
 #EXTM3U
 #EXTINF:0 group-title="ULUSAL",TRT1
+https://tv-trt1.live.trt.com.tr/master_360.m3u8
+#EXTINF:0 group-title="ULUSAL",TRT1 SD
 https://tv-trt1.live.trt.com.tr/master_720.m3u8
 #EXTINF:0 group-title="ULUSAL",ATV
-http://stream.suboroiptv.tv/ATV/playlist.m3u8
+https://www.yilmaztv.com/oz/oz.php?channel=atv-canli-izlemek&stream=1&id=26091&p=797fa10c0bb1e0a4467dc7f532390f02&type=m3u8
 #EXTINF:0 group-title="ULUSAL",STAR TV
 http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 #EXTINF:0 group-title="ULUSAL",STAR TV SD
@@ -40,7 +42,7 @@ https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 #EXTINF:0 group-title="ULUSAL",BEYAZ TV
 https://canli.ensonhaber.com/tr/beyaztv/index.m3u8
 #EXTINF:0 group-title="ULUSAL",360 TV
-https://canli.ensonhaber.com/tr/360tv/index.m3u8
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:0 group-title="ULUSAL",DMAX
 https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
 
@@ -78,7 +80,7 @@ https://2122248074.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
 #EXTINF:0 group-title="HABER",HABER GLOBAL
 https://canli.ensonhaber.com/tr/haberglobal/index.m3u8
 #EXTINF:0 group-title="HABER",24 TV
-https://canli.ensonhaber.com/tr/24tv/index.m3u8
+https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 #EXTINF:0 group-title="HABER",TVNET
 https://canli.ensonhaber.com/tr/tvnet/index.m3u8
 #EXTINF:0 group-title="HABER",ULKE TV
