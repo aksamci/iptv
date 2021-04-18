@@ -4,7 +4,7 @@ https://tv-trt1.live.trt.com.tr/master_360.m3u8
 #EXTINF:0 group-title="ULUSAL",TRT1 SD
 https://tv-trt1.live.trt.com.tr/master_720.m3u8
 #EXTINF:0 group-title="ULUSAL",ATV
-https://zaplacanlitv.com/kanal7-avrupa/playlist.m3u8
+https://stream.personamedia.tv/atvhls?fmt=hls
 #EXTINF:0 group-title="ULUSAL",STAR TV
 http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 #EXTINF:0 group-title="ULUSAL",STAR TV SD
@@ -68,7 +68,7 @@ https://592f1881b3d5f.streamlock.net:1443/santraltv_925/santraltv_925/chunklist_
 #EXTINF:0 group-title="HABER",TRT HABER
 https://tv-trthaber.live.trt.com.tr/master_720.m3u8
 #EXTINF:0 group-title="HABER",A HABER
-https://tv-trthaber.live.trt.com.tr/master_720.m3u8
+http://149.255.152.66:8080/ahaberhd/index.m3u8
 #EXTINF:0 group-title="HABER",NTV
 http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
 #EXTINF:0 group-title="HABER",HABER TURK
@@ -124,13 +124,13 @@ https://tv-e-okul02.live.trt.com.tr/master.m3u8
 #EXTINF:0 group-title="COCUK",TRT COCUK
 https://tv-trtcocuk.live.trt.com.tr/master.m3u8
 #EXTINF:0 group-title="COCUK",MINIKA GO
-https://www.yilmaztv.com/oz/oz.php?channel=minika-go-9&stream=1&id=26091&p=797fa10c0bb1e0a4467dc7f532390f02&type=m3u8
+http://149.255.152.66:8080/minikago/index.m3u8
 #EXTINF:0 group-title="COCUK",MINIKA COCUK
-https://www.yilmaztv.com/oz/oz.php?channel=minika-cocuk-16&stream=1&id=26091&p=797fa10c0bb1e0a4467dc7f532390f02&type=m3u8
+http://149.255.152.66:8080/minikacocuk/index.m3u8
 #EXTINF:0 group-title="COCUK",CARTOON NETWORK
-https://www.yilmaztv.com/oz/oz.php?channel=cartoon-network&stream=1&id=26091&p=797fa10c0bb1e0a4467dc7f532390f02&type=m3u8
+http://149.255.152.66:8080/cartoon/index.m3u8
 #EXTINF:0 group-title="COCUK",DISNEY CHANNEL
-https://www.yilmaztv.com/oz/oz.php?channel=disney-channel&stream=1&id=26091&p=797fa10c0bb1e0a4467dc7f532390f02&type=m3u8
+http://149.255.152.66:8080/disneychan/index.m3u8
 
 #EXTINF:0 group-title="MUZIK",TRT MUZIK
 https://tv-trtmuzik.live.trt.com.tr/master.m3u8
