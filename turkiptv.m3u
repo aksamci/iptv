@@ -444,10 +444,6 @@ https://waw1.artiyerelmedya.net/yesilyurttv/bant1/playlist.m3u8
 http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 #EXTINF:0 group-title="YEREL",YOL TV
 http://stream.yol.tv:9485/medialive/yol.m3u8
-#EXTINF:0 group-title="YEREL",YANSIMA TV
-https://stream.mylive.in.th/live/yansimatv/yansimatv.m3u8
-#EXTINF:0 group-title="YEREL",YANSIMA MÜZİK TV
-https://stream.mylive.in.th/live/yansimamuziktv/yansimamuziktv.m3u8 
 #EXTINF:0 group-title="YEREL",WOMAN TV
 https://s01.vpis.io/wmtv/wmtv.m3u8
 
@@ -622,181 +618,21 @@ https://rtmp-eu.loola.tv:8081/hlspush/Z2vzO8x-Z2bwr4G.m3u8
 https://live-server-2.splitstream.io/fd15e2fa-310e-46fd-8310-a92599e61696/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" group="Premium" channelId="-1" logo="https://i.imgur.com/ulcg2gA.png", Yansıma TV
 https://rtmp-eu.loola.tv:8081/hlspush/ZB8VKS-1uDJ3s.m3u8
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/cine_office1.png", Cine Salon 1
-http://20062016.com:8000/live.mtg_2406_1/fullhdp.servep2p.com/16504
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/cine_office2.png", Cine Salon 2
-http://20062016.com:8000/live.mtg_2406_1/fullhdp.servep2p.com/16505
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/cine_office3.png", Cine Salon 3
-http://20062016.com:8000/live.mtg_2406_1/fullhdp.servep2p.com/16506
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/cine_office4.png", Cine Salon 4
-http://20062016.com:8000/live.mtg_2406_1/fullhdp.servep2p.com/16508
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/cine_office5.png", Cine Salon 5
-http://20062016.com:8000/live.mtg_2406_1/fullhdp.servep2p.com/16509
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/cine_office6.png", Cine Salon 6
-http://20062016.com:8000/live.mtg_2406_1/fullhdp.servep2p.com/16512
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/cine_office7.png", Cine Salon 7
-http://20062016.com:8000/live.mtg_2406_1/fullhdp.servep2p.com/16513
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/cine_office8.png", Cine Salon 8
-http://20062016.com:8000/live.mtg_2406_1/fullhdp.servep2p.com/16502
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="https://i.imgur.com/pbHgFVi.png", Yeşilçam Şener Şen
-http://20062016.com:8000/live.mtg_2406_1/fullhdp.servep2p.com/16515
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="https://i.imgur.com/pbHgFVi.png", Yeşilçam Kemal Sunal
-http://20062016.com:8000/live.mtg_2406_1/fullhdp.servep2p.com/16517
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="https://i.imgur.com/yxVnk9R.png", Cine Casusluk
-http://20062016.com:8000/live.mtg_2406_1/fullhdp.servep2p.com/16518
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="https://i.imgur.com/yxVnk9R.png", Cine Bollywood
-http://20062016.com:8000/live.mtg_2406_1/fullhdp.servep2p.com/16519
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="https://i.imgur.com/yxVnk9R.png", Cine Komedi
-http://20062016.com:8000/live.mtg_2406_1/fullhdp.servep2p.com/16521
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="https://i.imgur.com/5ncPrcu.png", Şaban TV
-http://fidece38941.ozelip.com:2052/fidece/fidece/playlist.m3u8
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="https://i.imgur.com/5ncPrcu.png", Şaban TV
-http://fidece38941.ozelip.com:2052/sabantv/sabantv/playlist.m3u8
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="https://i.imgur.com/5ncPrcu.png", Şaban TV
-http://145.239.37.125:20458/sabantv2/sabantv2/playlist.m3u8
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="https://i.imgur.com/5ncPrcu.png", Şaban TV
-http://145.239.37.125:20458/sabantv/sabantv/playlist.m3u8
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="https://i.imgur.com/5ncPrcu.png", Şaban TV
-http://145.239.37.125:20458/sabantv3/sabantv3/playlist.m3u8
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="https://i.imgur.com/5ncPrcu.png", Şaban TV
-http://sikimsonikisler.hlsrectv.online/62/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="https://i.imgur.com/aafMZ3j.png", Sine Yeşilçam
-http://sikimsonikisler.hlsrectv.online/63/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="https://i.imgur.com/un0hKOJ.png", Sine Yeşilçam
-http://tv167200.ozelip.com:26206/fidece/fidece/chunklist_w84473421.m3u8
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="https://i.imgur.com/0DCKTL4.png", Sine Aksiyon
-http://sikimsonikisler.hlsrectv.online/41/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="https://i.imgur.com/7lVEtVv.png", Sine Aksiyon 2
-http://sikimsonikisler.hlsrectv.online/43/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="https://i.imgur.com/5o0iRwV.png", Sine Komedi
-http://sikimsonikisler.hlsrectv.online/49/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="https://i.imgur.com/wuxv5PN.png", Sine Komedi 2
-http://sikimsonikisler.hlsrectv.online/50/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="https://i.imgur.com/ikyq5YD.png", Sine Komedi 3
-http://sikimsonikisler.hlsrectv.online/51/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="https://i.imgur.com/TMidH69.png", Sine Korku
-http://sikimsonikisler.hlsrectv.online/52/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="https://i.imgur.com/KHOuNXO.png", Sine Nostalji
-http://sikimsonikisler.hlsrectv.online/54/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/cine_office1.png", Sine Salon 1
-http://sikimsonikisler.hlsrectv.online/42/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/cine_office2.png", Sine Salon 2
-http://sikimsonikisler.hlsrectv.online/55/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/cine_office3.png", Sine Salon 3
-http://sikimsonikisler.hlsrectv.online/57/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/cine_office4.png", Sine Salon 4
-http://sikimsonikisler.hlsrectv.online/59/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/cine_office5.png", Sine Salon 5
-http://sikimsonikisler.hlsrectv.online/60/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/cine_office6.png", Sine Salon 6
-http://snmtv.ozelip.com:2052/sinematv/sinematv/playlist.m3u8
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/filmbox_dram.png", Sine Drama
-http://sikimsonikisler.hlsrectv.online/58/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/neocine_western.png", Sine Western
-http://sikimsonikisler.hlsrectv.online/61/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/filmbox_animasyon.png", Sine Animasyon
-http://sikimsonikisler.hlsrectv.online/44/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/filmbox_animasyon.png", Sine Animasyon 2
-http://sikimsonikisler.hlsrectv.online/45/tracks-v1a1/mono.m3u8 
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/filmbox_animasyon.png", Sine Animasyon 3
-http://sikimsonikisler.hlsrectv.online/46/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/neocine_yesilcam.png", IPX Yeşilçam
-http://afatmus.xyz:6464/live/SAMSUNSPOR/S78D2C5F94S5/2244.ts
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/neocine_yesilcam.png", IPX Yeşilçam
-http://afatmus.xyz:6464/live/SAMSUNSPOR/S78D2C5F94S5/2274.ts
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/neocine_yesilcam.png", IPX Yeşilçam
-http://afatmus.xyz:6464/live/SAMSUNSPOR/S78D2C5F94S5/2275.ts
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/slsinemakemalsunal.png", IPX Kemal Sunal
-http://afatmus.xyz:6464/live/SAMSUNSPOR/S78D2C5F94S5/2273.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="https://i.imgur.com/pbHgFVi.png", Yeşilçam TV
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/31.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="https://i.imgur.com/pbHgFVi.png", Yeşilçan Kemal Sunal
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/32.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="https://i.imgur.com/pbHgFVi.png", Yeşilçan Kemal Sunal
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/58.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="https://i.imgur.com/pbHgFVi.png", Yeşilçam Ayhan Işık
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/33.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="https://i.imgur.com/pbHgFVi.png", Yeşilçam Cüneyt Arkın
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/34.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="https://i.imgur.com/pbHgFVi.png", Yeşilçam Şener Şen
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/35.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="https://i.imgur.com/pbHgFVi.png", Yeşilçam Erol Taş
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/37.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="https://i.imgur.com/pbHgFVi.png", Yeşilçam Fatma Girik
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/38.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="https://i.imgur.com/pbHgFVi.png", Yeşilçam Filiz Akın
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/39.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="https://i.imgur.com/pbHgFVi.png", Yeşilçam Hülya Koçyiğit
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/42.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="https://i.imgur.com/pbHgFVi.png", Yeşilçam İlyas Salman
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/43.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="https://i.imgur.com/pbHgFVi.png", Yeşilçam Kadir İnanır
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/44.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="https://i.imgur.com/pbHgFVi.png", Yeşilçam Kazım Kartal
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/45.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="https://i.imgur.com/pbHgFVi.png", Yeşilçam Metin & Zeki
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/46.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="https://i.imgur.com/pbHgFVi.png", Yeşilçam Münir Özkul
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/47.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="https://i.imgur.com/pbHgFVi.png", Yeşilçam Tarık Akan
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/48.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="https://i.imgur.com/pbHgFVi.png", Yeşilçam Türkan Şoray
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/49.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="https://i.imgur.com/pbHgFVi.png", Yeşilçam Yılmaz Güney
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/50.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="https://i.imgur.com/pbHgFVi.png", Yeşilçam Orhan Gencebay
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/67.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="https://i.imgur.com/pbHgFVi.png", Yeşilçam Ferdi Tayfur
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/68.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/neocine_komedi.png", Beyaz Perde Komedi
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/53.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/neocine_komedi.png", Beyaz Perde Komedi
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/82.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/filmbox_dram.png", Beyaz Perde Dram
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/54.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/neocine_turk.png", Beyaz Perde Yerli
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/83.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/cine_office1.png", Cine Salon 1
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/98.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/cine_office2.png", Cine Salon 2
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/99.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/cine_office3.png", Cine Salon 3
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/100.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/cine_office4.png", Cine Salon 4
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/101.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/cine_office5.png", Cine Salon 5
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/104.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/cine_office6.png", Cine Salon 6
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/105.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/cine_office7.png", Cine Salon 7
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/106.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/cine_office8.png", Cine Salon 8
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/107.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/cine_office9.png", Cine Salon 9
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/108.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/cine_office10.png", Cine Salon 10
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/109.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/cine_office11.png", Cine Salon 11
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/110.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/cine_office12.png", Cine Salon 12
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/111.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/cine_office13.png", Cine Salon 13
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/112.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/cine_office14.png", Cine Salon 14
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/113.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/cine_office15.png", Cine Salon 15
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/115.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/cine_office16.png", Cine Salon 16
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/116.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/cine_office17.png", Cine Salon 17
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/102.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/filmbox_animasyon.png", Cine Animasyon
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/114.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/neocineCocuk.png", Cine Çocuk
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/93.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="https://i.imgur.com/GAkQFxd.png", Cine Müzik
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/70.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="https://i.imgur.com/1WzGsDG.png", Cine Belgesel
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/69.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="https://i.imgur.com/POKaDpc.png", Olta TV
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/55.ts
+
+
+#EXTINF:-1 tvg-chno="27" tvg-id="" tvg-name="BEINSPORTS 1 SD" tvg-logo="" group-title="MAC GÜNDE ACIK",BEINSPORTS 1 SD
+http://bazarhd.online:80/307210113151/307210113151/80394
+#EXTINF:-1 tvg-chno="28" tvg-id="" tvg-name="BEINSPORTS 1 HD" tvg-logo="" group-title="MAC GÜNDE ACIK",BEINSPORTS 1 HD
+http://bazarhd.online:80/307210113151/307210113151/80393
+#EXTINF:-1 tvg-chno="29" tvg-id="" tvg-name="BEIN SPORTS 1 UHD" tvg-logo="" group-title="MAC GÜNDE ACIK",BEIN SPORTS 1 UHD
+http://bazarhd.online:80/307210113151/307210113151/80392
+#EXTINF:-1 tvg-chno="31" tvg-id="" tvg-name="BEIN SPORTS 2 UHD" tvg-logo="" group-title="MAC GÜNDE ACIK",BEIN SPORTS 2 UHD
+http://bazarhd.online:80/307210113151/307210113151/80391
+#EXTINF:-1 tvg-chno="32" tvg-id="" tvg-name="BEIN SPORTS 1 [SD]" tvg-logo="" group-title="MAC GÜNDE ACIK",BEIN SPORTS 1 [SD]
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/34d756fd89e735c.m3u8
+#EXTINF:-1 tvg-chno="33" tvg-id="" tvg-name="BEIN SPORTS 2 [SD]" tvg-logo="" group-title="MAC GÜNDE ACIK",BEIN SPORTS 2 [SD]
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/11afe2d943098df.m3u8
+#EXTINF:-1 tvg-chno="34" tvg-id="" tvg-name="BEIN SPORTS 3 [SD]" tvg-logo="" group-title="MAC GÜNDE ACIK",BEIN SPORTS 3 [SD]
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/334261d8ed50e1a.m3u8
+#EXTINF:0,aspor
+http://149.255.152.66:8080/asporhd/index.m3u8
