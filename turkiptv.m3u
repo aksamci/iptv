@@ -372,12 +372,6 @@ http://metrotvadana.radyotvonline.net/metrotv/metrotvhd/playist.m3u8
 https://broadcasttr.com:446/muglaturk/smil:muglaturk.smil/playlist.m3u8
 #EXTINF:0 group-title="YEREL",MOR TV
 http://live.arkumedia.com:1935/tvmor/tvmor/playist.m3u8
-#EXTINF:0 group-title="YEREL",NUMBER 1 DAMAR
-https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/playlist.m3u8 
-#EXTINF:0 group-title="YEREL",NUMBER 1 Ask
-https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18f9c54e6.smil/playlist.m3u8
-#EXTINF:0 group-title="YEREL",NUMBER 1 Dance
-https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2aa89e721.smil/playlist.m3u8
 #EXTINF:0 group-title="YEREL",NHT TV
 http://nhttv22.nhttv.com:29020/nhttv/nhttv/playlist.m3u8
 #EXTINF:0 group-title="YEREL",NATURAL TV
@@ -483,25 +477,23 @@ http://85.132.81.184:8080/arbkepez/live/index.m3u8
 #EXTINF:0 group-title="AZ",ATV Azerbaycan 
 http://85.132.81.184:8080/atv/index.m3u8 
 #EXTINF:0 group-title="AZ",AZ TV 
-http://149.255.152.199/aztv.m3u8
+https://streams.livetv.az/azerbaijan/aztv_stream2/chunks.m3u8
 #EXTINF:0 group-title="AZ",AZ NEWS TV
 https://swow1.socialsmart.tv/aznews/smil:aznews.smil/playlist.m3u8 
 #EXTINF:0 group-title="AZ",CBC
-http://149.255.152.199/cbcaz.m3u8
+https://streams.livetv.az/azerbaijan/cbc_stream2/playlist.m3u8
 #EXTINF:0 group-title="AZ",CBC SPORT
-http://149.255.152.199/cbcsport.m3u8 
-#EXTINF:0 group-title="AZ",DALGA TV
-http://149.255.152.199/dlg.m3u8 
+https://streams.livetv.az/azerbaijan/cbc_sport_hd/playlist.m3u8
 #EXTINF:0 group-title="AZ",İÇTİMAİ TV
 https://node19.connect.az:8086/ch1/ch1.hi.m3u8 
 #EXTINF:0 group-title="AZ",İDMAN TV
-http://149.255.152.199/idman.m3u8
+https://streams.livetv.az/azerbaijan/idman2_stream_sd/playlist.m3u8
 #EXTINF:0 group-title="AZ",LİDER TV
-http://149.255.152.199/lider.m3u8 
+https://streams.livetv.az/azerbaijan/lider_stream/playlist.m3u8
 #EXTINF:0 group-title="AZ",MEDENİYET TV
-http://149.255.152.199/medeniyet.m3u8
+https://streams.livetv.az/azerbaijan/medeniyyet_stream2/playlist.m3u8
 #EXTINF:0 group-title="AZ",XAZER TV
-http://149.255.152.199/xazer.m3u8
+https://streams.livetv.az/azerbaijan/xazar_sd_stream_2/playlist.m3u8
 
 #EXTINF:0 group-title="DE",ARD
 https://mcdn.daserste.de/daserste/int/master_608.m3u8
