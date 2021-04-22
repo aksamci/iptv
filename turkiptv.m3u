@@ -612,3 +612,11 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/11afe2d943098
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/334261d8ed50e1a.m3u8
 #EXTINF:0,aspor
 http://149.255.152.66:8080/asporhd/index.m3u8
+#EXTINF:0 group-title="SPORT",Süper LIG TV
+http://oldboz44.com/sgamk/index.m3u8
+#EXTINF:0 group-title="SPORT",Süper LIG2 TV
+http://v1.oldboz44.com/beinsport2/index.m3u8
+#EXTINF:0 group-title="SPORT",Süper LIG3 TV
+http://v1.oldboz44.com/beinsport3/index.m3u8
+#EXTINF:0 group-title="SPORT",Süper LIG4 TV
+http://v1.oldboz44.com/beinsport4/index.m3u8
