@@ -49,7 +49,7 @@ https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
 #EXTINF:0 group-title="SPOR",TRT SPOR
 https://tv-trt3.live.trt.com.tr/master_720.m3u8
 #EXTINF:0 group-title="SPOR",A SPOR
-https://tv-trthaber.live.trt.com.tr/master_720.m3u8
+http://europe2.livetv.az/turkey/sportr2/playlist.m3u8
 #EXTINF:0 group-title="SPOR",TIVIBU SPOR
 https://tna6.tulix.tv/live/giniko_ginikoturkish_tivibuspor_1200kb_tna6.m3u8
 #EXTINF:0 group-title="SPOR",SPORTS TV
@@ -141,15 +141,15 @@ http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
 #EXTINF:0 group-title="MUZIK",KRAL POP
 http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
 #EXTINF:0 group-title="MUZIK",POWER TURK
-https://waw2.artiyerelmedya.net/powerturktv/bant1/chunks.m3u8
+https://waw3.artiyerelmedya.net/powerturktv/bant1/chunks.m3u8
 #EXTINF:0 group-title="MUZIK",POWER
-https://waw2.artiyerelmedya.net/powertv/bant1/chunks.m3u8
+https://waw3.artiyerelmedya.net/powertv/bant1/chunks.m3u8
 #EXTINF:0 group-title="MUZIK",DREAM TURK
 https://2122248083.duhnet.tv//S2/HLS_LIVE/dreamturknp/track_4_1000/playlist.m3u8
 #EXTINF:0 group-title="MUZIK",NUMBER ONE TURK
-https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunks.m3u8
+https://stream-11.ix7.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDDAt3nBO_HBzbvcK3EgsgyI)/dm/3/x67cguc/s/live-3.m3u8
 #EXTINF:0 group-title="MUZIK",NUMBER ONE TV
-https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunks.m3u8
+https://stream-02.dc3.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDM2Xat8qykrpqXWBNLyzea4)/dm/3/x67c77j/s/live-3.m3u8
 #EXTINF:0 group-title="MUZIK",DAMAR TV
 http://51.255.7.18:8080/hls/damar.m3u8
 #EXTINF:0 group-title="MUZIK",ZEYNO TV
@@ -189,11 +189,11 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe46
 http://cri.aa.net.tr:1935/belgesel/belgesel/chunklist.m3u8
 
 #EXTINF:0 group-title="TARIM",CIFTCI TV
-https://waw1.artiyerelmedya.net/ciftcitv/bant1/chunks.m3u8
+https://waw3.artiyerelmedya.net/ciftcitv/bant1/chunks.m3u8
 #EXTINF:0 group-title="TARIM",KÖY TV
 https://59cba4d34b678.streamlock.net/canlitv/koytv/chunklist.m3u8
 #EXTINF:0 group-title="TARIM",AV TV
-https://waw2.artiyerelmedya.net/avtv/bant1/chunks.m3u8
+https://waw3.artiyerelmedya.net/avtv/bant1/chunks.m3u8
 #EXTINF:0 group-title="TARIM",YABAN TV
 http://yayin3.sanaltv.com:1935/live1/yabantv/chunklist.m3u8
 #EXTINF:0 group-title="TARIM",TARIM TV
@@ -478,8 +478,6 @@ http://kuzeykibris.tv/m3u8/tv_dialog.m3u8
 http://85.132.81.184:8080/arb/live/index.m3u8 
 #EXTINF:0 group-title="AZ",ARB 24
 http://85.132.81.184:8080/arb24/live1/index.m3u8 
-#EXTINF:0 group-title="AZ",ARB GÜNEŞ
-http://149.255.152.199/arbgunes.m3u8 
 #EXTINF:0 group-title="AZ",ARB KEPEZ
 http://85.132.81.184:8080/arbkepez/live/index.m3u8
 #EXTINF:0 group-title="AZ",ATV Azerbaycan 
@@ -500,22 +498,8 @@ https://node19.connect.az:8086/ch1/ch1.hi.m3u8
 http://149.255.152.199/idman.m3u8
 #EXTINF:0 group-title="AZ",LİDER TV
 http://149.255.152.199/lider.m3u8 
-#EXTINF:0 group-title="AZ",MCJ TV SHOP
-http://149.255.152.199/mcj.m3u8 
 #EXTINF:0 group-title="AZ",MEDENİYET TV
 http://149.255.152.199/medeniyet.m3u8
-#EXTINF:0 group-title="AZ",MUZ TV
-http://149.255.152.199/mtvazerbaycan.m3u8 
-#EXTINF:0 group-title="AZ",REAL TV 
-http://149.255.152.199/real.m3u8 
-#EXTINF:0 group-title="AZ",SPACE TV
-http://149.255.152.199/space.m3u8 
-#EXTINF:0 group-title="AZ",START TV
-http://149.255.152.199/starttv.m3u8 
-#EXTINF:0 group-title="AZ",VIP TV
-http://149.255.152.199/vip.m3u8
-#EXTINF:0 group-title="AZ",VOSTOK TV
-http://149.255.152.199/vostoktv.m3u8
 #EXTINF:0 group-title="AZ",XAZER TV
 http://149.255.152.199/xazer.m3u8
 
