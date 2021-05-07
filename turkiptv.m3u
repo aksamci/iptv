@@ -764,4 +764,7 @@ http://176.9.31.213:7080/live/live_channel/e71sq94uo8/70.ts
 #EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="https://i.imgur.com/1WzGsDG.png", Cine Belgesel
 http://176.9.31.213:7080/live/live_channel/e71sq94uo8/69.ts
 #EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="https://i.imgur.com/POKaDpc.png", Olta TV
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/55.ts
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8
+#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="https://i.imgur.com/POKaDpc.png", Olta TV
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/55.ts/55.ts
+
