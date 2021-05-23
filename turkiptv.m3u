@@ -679,8 +679,212 @@ http://176.9.31.213:7080/live/live_channel/e71sq94uo8/70.ts
 #EXTINF:0 group-title="SINEMA2",Cine Belgesel
 http://176.9.31.213:7080/live/live_channel/e71sq94uo8/69.ts
 
+#EXTINF:0 group-title="SINEMA2",Yesilçam TV
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/31.ts
+#EXTINF:0 group-title="SINEMA2",Yesilçan Kemal Sunal
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/32.ts
+#EXTINF:0 group-title="SINEMA2",Yesilçan Kemal Sunal
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/58.ts
+#EXTINF:0 group-title="SINEMA2",Yesilçam Metin & Zeki
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/46.ts
+#EXTINF:0 group-title="SINEMA2",Yesilçam Orhan Gencebay
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/67.ts
+#EXTINF:0 group-title="SINEMA2",Yesilçam Ferdi Tayfur
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/68.ts
 
 
+
+#EXTINF:0 group-title="SINEMA2",Beyaz Perde Komedi
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/53.ts
+#EXTINF:0 group-title="SINEMA2",Beyaz Perde Komedi
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/82.ts
+#EXTINF:0 group-title="SINEMA2",Beyaz Perde Dram
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/54.ts
+#EXTINF:0 group-title="SINEMA2",Beyaz Perde Yerli
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/83.ts
+#EXTINF:0 group-title="SINEMA2",Cine Salon 1
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/98.ts
+#EXTINF:0 group-title="SINEMA2",Cine Salon 2
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/99.ts
+#EXTINF:0 group-title="SINEMA2",Cine Salon 3
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/100.ts
+#EXTINF:0 group-title="SINEMA2",Cine Salon 4
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/101.ts
+#EXTINF:0 group-title="SINEMA2",Cine Salon 5
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/104.ts
+#EXTINF:0 group-title="SINEMA2",Cine Salon 6
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/105.ts
+#EXTINF:0 group-title="SINEMA2",Cine Salon 7
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/106.ts
+#EXTINF:0 group-title="SINEMA2",Cine Salon 8
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/107.ts
+#EXTINF:0 group-title="SINEMA2",Cine Salon 9
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/108.ts
+#EXTINF:0 group-title="SINEMA2",Cine Salon 10
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/109.ts
+#EXTINF:0 group-title="SINEMA2",Cine Salon 11
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/110.ts
+#EXTINF:0 group-title="SINEMA2",Cine Salon 12
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/111.ts
+#EXTINF:0 group-title="SINEMA2",Cine Salon 13
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/112.ts
+#EXTINF:0 group-title="SINEMA2",Cine Salon 14
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/113.ts
+#EXTINF:0 group-title="SINEMA2",Cine Salon 15
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/115.ts
+#EXTINF:0 group-title="SINEMA2",Cine Salon 16
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/116.ts
+#EXTINF:0 group-title="SINEMA2",Cine Salon 17
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/102.ts
+#EXTINF:0 group-title="SINEMA2",Cine Animasyon
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/114.ts
+#EXTINF:0 group-title="SINEMA2",Cine Çocuk
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/93.ts
+#EXTINF:0 group-title="SINEMA2",Cine Belgesel
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/69.ts
+
+#EXTINF:0 group-title="SINEMA2",MOVIE SMART TURK
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/159.ts
+#EXTINF:0 group-title="SINEMA2",MOVIE SMART PREMIUM
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/160.ts
+#EXTINF:0 group-title="SINEMA2",MOVIE SMART GOLD
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/163.ts
+#EXTINF:0 group-title="SINEMA2",MOVIE SMART FEST
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/164.ts
+#EXTINF:0 group-title="SINEMA2",MOVIE SMART FAMILY
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/165.ts
+#EXTINF:0 group-title="SINEMA2",MOVIE SMART CLASSIC
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/166.ts
+#EXTINF:0 group-title="SINEMA2",MOVIE SMART ACTION
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/162.ts
+#EXTINF:0 group-title="SINEMA2",BeinMOVIES Yesilcam
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/118.ts
+#EXTINF:0 group-title="SINEMA2",SERIES VICE
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/158.ts
+#EXTINF:0 group-title="SINEMA2",beIN SERIES SCI-FI
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/157.ts
+#EXTINF:0 group-title="SINEMA2",beIN SERIES DRAMA
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/156.ts
+#EXTINF:0 group-title="SINEMA2",beIN SERIES COMEDY
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/155.ts
+#EXTINF:0 group-title="SINEMA2",MOVIES TURK
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/148.ts
+#EXTINF:0 group-title="SINEMA2",beIN MOVIES STARS
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/153.ts
+#EXTINF:0 group-title="SINEMA2",beIN MOVIES PREMIERE
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/149.ts
+#EXTINF:0 group-title="SINEMA2",beIN MOVIES PREMIERE 2
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/150.ts
+#EXTINF:0 group-title="SINEMA2",beIN MOVIES FAMILY
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/154.ts
+#EXTINF:0 group-title="SINEMA2",beIN MOVIES ACTION HD
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/151.ts
+#EXTINF:0 group-title="SINEMA2",beIN MOVIES ACTION 2 HD
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/152.ts
+#EXTINF:0 group-title="SINEMA2",Filmbox PREMIERE
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/2791.ts
+#EXTINF:0 group-title="SINEMA2",FiLMBOXHD YESILCAM
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/117.ts
+#EXTINF:0 group-title="SINEMA2",FiLMBOXHD YERLi
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/116.ts
+#EXTINF:0 group-title="SINEMA2",FiLMBOXHD SCI-FI
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/126.ts
+#EXTINF:0 group-title="SINEMA2",FiLMBOXHD KORKU
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/124.ts
+#EXTINF:0 group-title="SINEMA2",FiLMBOXHD KEMAL SUNAL TV
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/119.ts
+#EXTINF:0 group-title="SINEMA2",FILMBOX ZEKI & METIN TV
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/2796.ts
+#EXTINF:0 group-title="SINEMA2",FILMBOX TARIK AKAN TV
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/2797.ts
+#EXTINF:0 group-title="SINEMA2",FILMBOX SENER SEN TV
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/2795.ts
+#EXTINF:0 group-title="SINEMA2",FILMBOX KADIR INANIR TV
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/2798.ts
+#EXTINF:0 group-title="SINEMA2",FILMBOX ILYAS SALMAN TV
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/2799.ts
+#EXTINF:0 group-title="SINEMA2",FILMBOX CUNEYT ARKIN TV ᴴᴰ
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/2800.ts
+#EXTINF:0 group-title="SINEMA2",FiLMBOXHD FANTASTiK
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/123.ts
+#EXTINF:0 group-title="SINEMA2",FiLMBOXHD DRAM
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/125.ts
+#EXTINF:0 group-title="SINEMA2",FiLMBOXHD AKSiYON
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/122.ts
+#EXTINF:0 group-title="SINEMA2",FiLMBOXHD AiLE
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/121.ts
+
+#EXTINF:0 group-title="SINEMA2",FILMBOX SINEVIZYON 1
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/128.ts
+#EXTINF:0 group-title="SINEMA2",FILMBOX SINEVIZYON 2
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/129.ts
+#EXTINF:0 group-title="SINEMA2",FILMBOX SINEVIZYON 3
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/130.ts
+#EXTINF:0 group-title="SINEMA2",FILMBOX SINEVIZYON 4
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/131.ts
+#EXTINF:0 group-title="SINEMA2",FILMBOX SINEVIZYON 5
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/132.ts
+#EXTINF:0 group-title="SINEMA2",FILMBOX SINEVIZYON 6
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/133.ts
+#EXTINF:0 group-title="SINEMA2",FILMBOX SINEVIZYON 7
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/134.ts
+#EXTINF:0 group-title="SINEMA2",FILMBOX SINEVIZYON 8
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/135.ts
+#EXTINF:0 group-title="SINEMA2",FILMBOX SINEVIZYON 9
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/136.ts
+#EXTINF:0 group-title="SINEMA2",FILMBOX SINEVIZYON 10
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/137.ts
+#EXTINF:0 group-title="SINEMA2",FILMBOX SINEVIZYON 11
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/138.ts
+#EXTINF:0 group-title="SINEMA2",FILMBOX SINEVIZYON 12
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/139.ts
+#EXTINF:0 group-title="SINEMA2",FILMBOX SINEVIZYON 13
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/140.ts
+#EXTINF:0 group-title="SINEMA2",FILMBOX SINEVIZYON 14
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/141.ts
+#EXTINF:0 group-title="SINEMA2",FILMBOX SINEVIZYON 15
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/142.ts
+#EXTINF:0 group-title="SINEMA2",FILMBOX SINEVIZYON 16
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/143.ts
+#EXTINF:0 group-title="SINEMA2",FILMBOX SINEVIZYON 17
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/144.ts
+#EXTINF:0 group-title="SINEMA2",FILMBOX SINEVIZYON 18
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/145.ts
+#EXTINF:0 group-title="SINEMA2",FILMBOX SINEVIZYON 19
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/146.ts
+#EXTINF:0 group-title="SINEMA2",FILMBOX SINEVIZYON 20
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/147.ts
+
+#EXTINF:0 group-title="SINEMA2",SiNEMA TV YERLi
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/170.ts
+#EXTINF:0 group-title="SINEMA2",SiNEMA TV KOMEDi
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/174.ts
+#EXTINF:0 group-title="SINEMA2",SiNEMA TV
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/171.ts
+#EXTINF:0 group-title="SINEMA2",SiNEMA TV AKSiYON
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/172.ts
+#EXTINF:0 group-title="SINEMA2",SiNEMA TV AiLE
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/173.ts
+#EXTINF:0 group-title="SINEMA2",DIZI SMART PREMIUM
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/167.ts
+#EXTINF:0 group-title="SINEMA2",DiZi SMART MAX
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/168.ts
+#EXTINF:0 group-title="SINEMA2",BeinMOVIES Premiere
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/2402.ts
+#EXTINF:0 group-title="SINEMA2",Box Office DUAL
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/2399.ts
+#EXTINF:0 group-title="SINEMA2",Box Office 2 DUAL
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/2398.ts
+#EXTINF:0 group-title="SINEMA2",Box Office 3 DUAL
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/2397.ts
+#EXTINF:0 group-title="SINEMA2",Vizioon Festival
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/2380.ts
+#EXTINF:0 group-title="SINEMA2",Vizion Animasyon
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/2381.ts
+
+
+#EXTINF:0 group-title="MAC GÜNDE ACIK",Aspor
+http://149.255.152.66:8080/asporhd/index.m3u8
 #EXTINF:0 group-title="MAC GÜNDE ACIK",[TR] beIN SPORTS HABER HD
 http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/64.ts
 #EXTINF:0 group-title="MAC GÜNDE ACIK",[TR] beIN SPORTS HD
@@ -713,144 +917,3 @@ http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/72.ts
 http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/73.ts
 
 
-
-#EXTINF:-1,MOVIE SMART TURK HD
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/159.ts
-#EXTINF:-1,MOVIE SMART PREMIUM HD
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/160.ts
-#EXTINF:-1,MOVIE SMART PREMIUM 2 HD
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/161.ts
-#EXTINF:-1,MOVIE SMART GOLD HD
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/163.ts
-#EXTINF:-1,MOVIE SMART FEST HD
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/164.ts
-#EXTINF:-1,MOVIE SMART FAMILY HD
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/165.ts
-#EXTINF:-1,MOVIE SMART CLASSIC HD
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/166.ts
-#EXTINF:-1,MOVIE SMART ACTION HD
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/162.ts
-#EXTINF:-1,BeinMOVIES Yesilcam
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/118.ts
-#EXTINF:-1,SERIES VICE HD
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/158.ts
-#EXTINF:-1,beIN SERIES SCI-FI HD
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/157.ts
-#EXTINF:-1,beIN SERIES DRAMA HD
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/156.ts
-#EXTINF:-1,beIN SERIES COMEDY HD
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/155.ts
-#EXTINF:-1,MOVIES TURK HD
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/148.ts
-#EXTINF:-1,beIN MOVIES STARS HD
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/153.ts
-#EXTINF:-1,beIN MOVIES PREMIERE HD
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/149.ts
-#EXTINF:-1,beIN MOVIES PREMIERE 2 HD
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/150.ts
-#EXTINF:-1,beIN MOVIES FAMILY HD
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/154.ts
-#EXTINF:-1,beIN MOVIES ACTION HD
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/151.ts
-#EXTINF:-1,beIN MOVIES ACTION 2 HD
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/152.ts
-#EXTINF:-1,Filmbox PREMIERE
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/2791.ts
-#EXTINF:-1,FiLMBOXHD YESILCAM
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/117.ts
-#EXTINF:-1,FiLMBOXHD YERLi
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/116.ts
-#EXTINF:-1,FiLMBOXHD SCI-FI
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/126.ts
-#EXTINF:-1,FiLMBOXHD KORKU
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/124.ts
-#EXTINF:-1,FiLMBOXHD KEMAL SUNAL TV
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/119.ts
-#EXTINF:-1,FILMBOX ZEKI & METIN TV
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/2796.ts
-#EXTINF:-1,FILMBOX TARIK AKAN TV
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/2797.ts
-#EXTINF:-1,FILMBOX SENER SEN TV
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/2795.ts
-#EXTINF:-1,FILMBOX KADIR INANIR TV
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/2798.ts
-#EXTINF:-1,FILMBOX ILYAS SALMAN TV
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/2799.ts
-#EXTINF:-1,FILMBOX CUNEYT ARKIN TV ᴴᴰ
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/2800.ts
-#EXTINF:-1,FiLMBOXHD FANTASTiK
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/123.ts
-#EXTINF:-1,FiLMBOXHD DRAM
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/125.ts
-#EXTINF:-1,FiLMBOXHD AKSiYON
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/122.ts
-#EXTINF:-1,FiLMBOXHD AiLE
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/121.ts
-
-#EXTINF:-1,FILMBOX SINEVIZYON 1
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/128.ts
-#EXTINF:-1,FILMBOX SINEVIZYON 2
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/129.ts
-#EXTINF:-1,FILMBOX SINEVIZYON 3
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/130.ts
-#EXTINF:-1,FILMBOX SINEVIZYON 4
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/131.ts
-#EXTINF:-1,FILMBOX SINEVIZYON 5
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/132.ts
-#EXTINF:-1,FILMBOX SINEVIZYON 6
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/133.ts
-#EXTINF:-1,FILMBOX SINEVIZYON 7
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/134.ts
-#EXTINF:-1,FILMBOX SINEVIZYON 8
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/135.ts
-#EXTINF:-1,FILMBOX SINEVIZYON 9
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/136.ts
-#EXTINF:-1,FILMBOX SINEVIZYON 10
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/137.ts
-#EXTINF:-1,FILMBOX SINEVIZYON 11
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/138.ts
-#EXTINF:-1,FILMBOX SINEVIZYON 12
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/139.ts
-#EXTINF:-1,FILMBOX SINEVIZYON 13
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/140.ts
-#EXTINF:-1,FILMBOX SINEVIZYON 14
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/141.ts
-#EXTINF:-1,FILMBOX SINEVIZYON 15
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/142.ts
-#EXTINF:-1,FILMBOX SINEVIZYON 16
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/143.ts
-#EXTINF:-1,FILMBOX SINEVIZYON 17
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/144.ts
-#EXTINF:-1,FILMBOX SINEVIZYON 18
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/145.ts
-#EXTINF:-1,FILMBOX SINEVIZYON 19
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/146.ts
-#EXTINF:-1,FILMBOX SINEVIZYON 20
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/147.ts
-
-#EXTINF:-1,SiNEMA TV YERLi HD
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/170.ts
-#EXTINF:-1,SiNEMA TV KOMEDi HD
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/174.ts
-#EXTINF:-1,SiNEMA TV HD
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/171.ts
-#EXTINF:-1,SiNEMA TV AKSiYON HD
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/172.ts
-#EXTINF:-1,SiNEMA TV AiLE HD
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/173.ts
-#EXTINF:-1,DIZI SMART PREMIUM HD
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/167.ts
-#EXTINF:-1,DiZi SMART MAX HD
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/168.ts
-#EXTINF:-1,BeinMOVIES Premiere
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/2402.ts
-#EXTINF:-1,Box Office DUAL
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/2399.ts
-#EXTINF:-1,Box Office 2 DUAL
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/2398.ts
-#EXTINF:-1,Box Office 3 DUAL
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/2397.ts
-#EXTINF:-1,Vizioon Festival
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/2380.ts
-#EXTINF:-1,Vizion Animasyon
-http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/2381.ts
