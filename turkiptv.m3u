@@ -1,25 +1,25 @@
 #EXTM3U
 #EXTINF:0 group-title="ULUSAL",TRT1
 https://tv-trt1.live.trt.com.tr/master_360.m3u8
-#EXTINF:0 group-title="ULUSAL",TRT1 SD
+#EXTINF:0 group-title="ULUSAL",TRT1 HD
 https://tv-trt1.live.trt.com.tr/master_720.m3u8
 #EXTINF:0 group-title="ULUSAL",ATV
 https://stream.personamedia.tv/atvhls?fmt=hls
 #EXTINF:0 group-title="ULUSAL",STAR TV
 http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
-#EXTINF:0 group-title="ULUSAL",STAR TV SD
+#EXTINF:0 group-title="ULUSAL",STAR TV HD
 https://tv.ensonhaber.com/tv/tr/startv/index.m3u8
 #EXTINF:0 group-title="ULUSAL",EURO STAR
 http://xrklj56s.rocketcdn.com/eurostar.stream_720p/chunklist.m3u8
 #EXTINF:0 group-title="ULUSAL",KANAL D
 https://kdlive.duhnet.tv/S2/HLS_LIVE/kanaldnp/playlist.m3u8
-#EXTINF:0 group-title="ULUSAL",KANAL D SD
+#EXTINF:0 group-title="ULUSAL",KANAL D HD
 https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_sd.smil/playlist.m3u8
 #EXTINF:0 group-title="ULUSAL",EURO D
 https://2122248074.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
 #EXTINF:0 group-title="ULUSAL",SHOW TV
 https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
-#EXTINF:0 group-title="ULUSAL",SHOW TV SD
+#EXTINF:0 group-title="ULUSAL",SHOW TV HD
 https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd.smil/playlist.m3u8
 #EXTINF:0 group-title="ULUSAL",SHOW TÜRK
 https://mn-nl.mncdn.com/blutv_showturk/showturk_sd.smil/chunklist_b2096000.m3u8
@@ -27,7 +27,7 @@ https://mn-nl.mncdn.com/blutv_showturk/showturk_sd.smil/chunklist_b2096000.m3u8
 https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd.smil/playlist.m3u8
 #EXTINF:0 group-title="ULUSAL",TV8
 https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_sd.smil/playlist.m3u8
-#EXTINF:0 group-title="ULUSAL",TV8 SD
+#EXTINF:0 group-title="ULUSAL",TV8 HD
 https://tv8.personamedia.tv/tv8hls?fmt=hls&file=.m3u8
 #EXTINF:0 group-title="ULUSAL",TV8 INT
 https://mn-nl.mncdn.com/blutv_tv8_int/smil:tv8int_sd.smil/playlist.m3u8
@@ -35,7 +35,7 @@ https://mn-nl.mncdn.com/blutv_tv8_int/smil:tv8int_sd.smil/playlist.m3u8
 https://mn-nl.mncdn.com/blutv_tv8_5/tv8_5_sd.smil/playlist.m3u8
 #EXTINF:0 group-title="ULUSAL",KANAL 7
 https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
-#EXTINF:0 group-title="ULUSAL",KANAL 7 SD
+#EXTINF:0 group-title="ULUSAL",KANAL 7 HD
 https://mn-nl.mncdn.com/blutv_kanal7/smil:kanal7_sd.smil/playlist.m3u8
 #EXTINF:0 group-title="ULUSAL",KANAL 7 AVRUPA
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
@@ -56,8 +56,6 @@ https://tna6.tulix.tv/live/giniko_ginikoturkish_tivibuspor_1200kb_tna6.m3u8
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:0 group-title="SPOR",GS TV
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8
-#EXTINF:0 group-title="SPOR",SUPER LIG TV
-https://hlsb.nscdnetwork.com/hlslive/951.m3u8
 #EXTINF:0 group-title="SPOR",NTV SPOR
 http://46.105.178.212:8484/hls/ntvspor/playlist.m3u8
 #EXTINF:0 group-title="SPOR",TAY TV
@@ -546,43 +544,43 @@ http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:0 group-title="SPORT",Fox Sport 1
-https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
 #EXTINF:0 group-title="SPORT",Fox Sport 2
-https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
 #EXTINF:0 group-title="SPORT",Fox Sport 3
-https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
 #EXTINF:0 group-title="SPORT",Bein Sports 1
-https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:0 group-title="SPORT",Bein Sports 2
-https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:0 group-title="SPORT",BT Sport 1
-https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:0 group-title="SPORT",BT Sport 2
-https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:0 group-title="SPORT",Sport TV 1
-https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:0 group-title="SPORT",Sport TV 2
-https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
 #EXTINF:0 group-title="SPORT",Sport TV 3
-https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
 #EXTINF:0 group-title="SPORT",Sport TV 4
-https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:0 group-title="SPORT",Sport TV 5
-https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:0 group-title="SPORT",NBA HD
-https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 #EXTINF:0 group-title="SPORT",True Tennis HD
-https://www.livedoomovies.com/02_TennisHD_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
 #EXTINF:0 group-title="SPORT",Golf Channel HD
-https://www.livedoomovies.com/02_golfhd_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
 #EXTINF:0 group-title="SPORT",Premier Football 1 TH
-https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:0 group-title="SPORT",Premier Football 2 TH
-https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:0 group-title="SPORT",Premier Football 3 TH
-https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
 #EXTINF:0 group-title="SPORT",Premier Football 4 TH
-https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
 
 
 
@@ -614,157 +612,245 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/334261d8ed50e
 http://149.255.152.66:8080/asporhd/index.m3u8
 
 
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="https://i.imgur.com/ulcg2gA.png", Yansıma TV
-https://live-server-2.splitstream.io/fd15e2fa-310e-46fd-8310-a92599e61696/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="https://i.imgur.com/ulcg2gA.png", Yansıma TV
-https://rtmp-eu.loola.tv:8081/hlspush/ZB8VKS-1uDJ3s.m3u8
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="https://i.imgur.com/5ncPrcu.png", Şaban TV
-http://fidece38941.ozelip.com:2052/fidece/fidece/playlist.m3u8
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="https://i.imgur.com/5ncPrcu.png", Şaban TV
-http://fidece38941.ozelip.com:2052/sabantv/sabantv/playlist.m3u8
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="https://i.imgur.com/5ncPrcu.png", Şaban TV
-http://145.239.37.125:20458/sabantv2/sabantv2/playlist.m3u8
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="https://i.imgur.com/5ncPrcu.png", Şaban TV
-http://145.239.37.125:20458/sabantv/sabantv/playlist.m3u8
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="https://i.imgur.com/5ncPrcu.png", Şaban TV
-http://145.239.37.125:20458/sabantv3/sabantv3/playlist.m3u8
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="https://i.imgur.com/5ncPrcu.png", Şaban TV
-http://buduzenboylegitmez.hlsrectv.online/62/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="https://i.imgur.com/5ncPrcu.png", Şaban TV
-http://yayin2.tvizlehd.com/sabantv.m3u8
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="https://i.imgur.com/aafMZ3j.png", Sine Yeşilçam
-http://buduzenboylegitmez.hlsrectv.online/63/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="https://i.imgur.com/un0hKOJ.png", Sine Yeşilçam
-http://tv167200.ozelip.com:26206/fidece/fidece/chunklist_w84473421.m3u8
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="https://i.imgur.com/0DCKTL4.png", Sine Aksiyon
-http://buduzenboylegitmez.hlsrectv.online/41/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="https://i.imgur.com/7lVEtVv.png", Sine Aksiyon 2
-http://buduzenboylegitmez.hlsrectv.online/43/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="https://i.imgur.com/5o0iRwV.png", Sine Komedi
-http://buduzenboylegitmez.hlsrectv.online/49/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="https://i.imgur.com/wuxv5PN.png", Sine Komedi 2
-http://buduzenboylegitmez.hlsrectv.online/50/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="https://i.imgur.com/ikyq5YD.png", Sine Komedi 3
-http://buduzenboylegitmez.hlsrectv.online/51/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="https://i.imgur.com/TMidH69.png", Sine Korku
-http://buduzenboylegitmez.hlsrectv.online/52/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="https://i.imgur.com/KHOuNXO.png", Sine Nostalji
-http://buduzenboylegitmez.hlsrectv.online/54/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/cine_office1.png", Sine Salon 1
-http://buduzenboylegitmez.hlsrectv.online/42/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/cine_office2.png", Sine Salon 2
-http://buduzenboylegitmez.hlsrectv.online/55/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/cine_office3.png", Sine Salon 3
-http://buduzenboylegitmez.hlsrectv.online/57/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/cine_office4.png", Sine Salon 4
-http://buduzenboylegitmez.hlsrectv.online/59/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/cine_office5.png", Sine Salon 5
-http://buduzenboylegitmez.hlsrectv.online/60/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/cine_office6.png", Sine Salon 6
-http://snmtv.ozelip.com:2052/sinematv/sinematv/playlist.m3u8
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/filmbox_dram.png", Sine Drama
-http://buduzenboylegitmez.hlsrectv.online/58/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/neocine_western.png", Sine Western
-http://buduzenboylegitmez.hlsrectv.online/61/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/filmbox_animasyon.png", Sine Animasyon
-http://buduzenboylegitmez.hlsrectv.online/44/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/filmbox_animasyon.png", Sine Animasyon 2
-http://buduzenboylegitmez.hlsrectv.online/45/tracks-v1a1/mono.m3u8 
-#EXTINF:0 type="stream" group="Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/filmbox_animasyon.png", Sine Animasyon 3
-http://buduzenboylegitmez.hlsrectv.online/46/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="https://i.imgur.com/pbHgFVi.png", Yeşilçam TV
+#EXTINF:0 group-title="SINEMA2",Yesilçam TV
 http://176.9.31.213:7080/live/live_channel/e71sq94uo8/31.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="https://i.imgur.com/pbHgFVi.png", Yeşilçan Kemal Sunal
+#EXTINF:0 group-title="SINEMA2",Yesilçan Kemal Sunal
 http://176.9.31.213:7080/live/live_channel/e71sq94uo8/32.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="https://i.imgur.com/pbHgFVi.png", Yeşilçan Kemal Sunal
+#EXTINF:0 group-title="SINEMA2",Yesilçan Kemal Sunal
 http://176.9.31.213:7080/live/live_channel/e71sq94uo8/58.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="https://i.imgur.com/pbHgFVi.png", Yeşilçam Ayhan Işık
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/33.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="https://i.imgur.com/pbHgFVi.png", Yeşilçam Cüneyt Arkın
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/34.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="https://i.imgur.com/pbHgFVi.png", Yeşilçam Şener Şen
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/35.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="https://i.imgur.com/pbHgFVi.png", Yeşilçam Erol Taş
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/37.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="https://i.imgur.com/pbHgFVi.png", Yeşilçam Fatma Girik
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/38.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="https://i.imgur.com/pbHgFVi.png", Yeşilçam Filiz Akın
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/39.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="https://i.imgur.com/pbHgFVi.png", Yeşilçam Hülya Koçyiğit
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/42.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="https://i.imgur.com/pbHgFVi.png", Yeşilçam İlyas Salman
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/43.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="https://i.imgur.com/pbHgFVi.png", Yeşilçam Kadir İnanır
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/44.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="https://i.imgur.com/pbHgFVi.png", Yeşilçam Kazım Kartal
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/45.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="https://i.imgur.com/pbHgFVi.png", Yeşilçam Metin & Zeki
+#EXTINF:0 group-title="SINEMA2",Yesilçam Metin & Zeki
 http://176.9.31.213:7080/live/live_channel/e71sq94uo8/46.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="https://i.imgur.com/pbHgFVi.png", Yeşilçam Münir Özkul
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/47.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="https://i.imgur.com/pbHgFVi.png", Yeşilçam Tarık Akan
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/48.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="https://i.imgur.com/pbHgFVi.png", Yeşilçam Türkan Şoray
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/49.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="https://i.imgur.com/pbHgFVi.png", Yeşilçam Yılmaz Güney
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/50.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="https://i.imgur.com/pbHgFVi.png", Yeşilçam Orhan Gencebay
+#EXTINF:0 group-title="SINEMA2",Yesilçam Orhan Gencebay
 http://176.9.31.213:7080/live/live_channel/e71sq94uo8/67.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="https://i.imgur.com/pbHgFVi.png", Yeşilçam Ferdi Tayfur
+#EXTINF:0 group-title="SINEMA2",Yesilçam Ferdi Tayfur
 http://176.9.31.213:7080/live/live_channel/e71sq94uo8/68.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/neocine_komedi.png", Beyaz Perde Komedi
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/53.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/neocine_komedi.png", Beyaz Perde Komedi
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/82.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/filmbox_dram.png", Beyaz Perde Dram
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/54.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/neocine_turk.png", Beyaz Perde Yerli
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/83.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/cine_office1.png", Cine Salon 1
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/98.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/cine_office2.png", Cine Salon 2
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/99.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/cine_office3.png", Cine Salon 3
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/100.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/cine_office4.png", Cine Salon 4
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/101.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/cine_office5.png", Cine Salon 5
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/104.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/cine_office6.png", Cine Salon 6
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/105.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/cine_office7.png", Cine Salon 7
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/106.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/cine_office8.png", Cine Salon 8
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/107.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/cine_office9.png", Cine Salon 9
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/108.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/cine_office10.png", Cine Salon 10
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/109.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/cine_office11.png", Cine Salon 11
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/110.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/cine_office12.png", Cine Salon 12
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/111.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/cine_office13.png", Cine Salon 13
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/112.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/cine_office14.png", Cine Salon 14
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/113.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/cine_office15.png", Cine Salon 15
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/115.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/cine_office16.png", Cine Salon 16
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/116.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/cine_office17.png", Cine Salon 17
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/102.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/filmbox_animasyon.png", Cine Animasyon
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/114.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="http://picon.webhop.net/logo/turkeyT/neocineCocuk.png", Cine Çocuk
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/93.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="https://i.imgur.com/GAkQFxd.png", Cine Müzik
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/70.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="https://i.imgur.com/1WzGsDG.png", Cine Belgesel
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/69.ts
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="https://i.imgur.com/POKaDpc.png", Olta TV
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8
-#EXTINF:0 type="stream" group="2Premium" channelId="-1" logo="https://i.imgur.com/POKaDpc.png", Olta TV
-http://176.9.31.213:7080/live/live_channel/e71sq94uo8/55.ts/55.ts
 
+
+
+#EXTINF:0 group-title="SINEMA2",Beyaz Perde Komedi
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/53.ts
+#EXTINF:0 group-title="SINEMA2",Beyaz Perde Komedi
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/82.ts
+#EXTINF:0 group-title="SINEMA2",Beyaz Perde Dram
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/54.ts
+#EXTINF:0 group-title="SINEMA2",Beyaz Perde Yerli
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/83.ts
+#EXTINF:0 group-title="SINEMA2",Cine Salon 1
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/98.ts
+#EXTINF:0 group-title="SINEMA2",Cine Salon 2
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/99.ts
+#EXTINF:0 group-title="SINEMA2",Cine Salon 3
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/100.ts
+#EXTINF:0 group-title="SINEMA2",Cine Salon 4
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/101.ts
+#EXTINF:0 group-title="SINEMA2",Cine Salon 5
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/104.ts
+#EXTINF:0 group-title="SINEMA2",Cine Salon 6
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/105.ts
+#EXTINF:0 group-title="SINEMA2",Cine Salon 7
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/106.ts
+#EXTINF:0 group-title="SINEMA2",Cine Salon 8
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/107.ts
+#EXTINF:0 group-title="SINEMA2",Cine Salon 9
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/108.ts
+#EXTINF:0 group-title="SINEMA2",Cine Salon 10
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/109.ts
+#EXTINF:0 group-title="SINEMA2",Cine Salon 11
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/110.ts
+#EXTINF:0 group-title="SINEMA2",Cine Salon 12
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/111.ts
+#EXTINF:0 group-title="SINEMA2",Cine Salon 13
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/112.ts
+#EXTINF:0 group-title="SINEMA2",Cine Salon 14
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/113.ts
+#EXTINF:0 group-title="SINEMA2",Cine Salon 15
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/115.ts
+#EXTINF:0 group-title="SINEMA2",Cine Salon 16
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/116.ts
+#EXTINF:0 group-title="SINEMA2",Cine Salon 17
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/102.ts
+#EXTINF:0 group-title="SINEMA2",Cine Animasyon
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/114.ts
+#EXTINF:0 group-title="SINEMA2",Cine Çocuk
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/93.ts
+#EXTINF:0 group-title="SINEMA2",Cine Müzik
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/70.ts
+#EXTINF:0 group-title="SINEMA2",Cine Belgesel
+http://176.9.31.213:7080/live/live_channel/e71sq94uo8/69.ts
+
+
+
+#EXTINF:0 group-title="MAC GÜNDE ACIK",[TR] beIN SPORTS HABER HD
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/64.ts
+#EXTINF:0 group-title="MAC GÜNDE ACIK",[TR] beIN SPORTS HD
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/67.ts
+#EXTINF:0 group-title="MAC GÜNDE ACIK",[TR] beIN SPORTS 4K
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/63.ts
+#EXTINF:0 group-title="MAC GÜNDE ACIK",[TR] beIN SPORT 2 HD
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/68.ts
+#EXTINF:0 group-title="MAC GÜNDE ACIK",[TR] beIN SPORTS 3 HD
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/69.ts
+#EXTINF:0 group-title="MAC GÜNDE ACIK",[TR] beIN SPORTS 4 HD
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/70.ts
+#EXTINF:0 group-title="MAC GÜNDE ACIK",[TR] beIN SPORTS MAX 1 HD
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/65.ts
+#EXTINF:0 group-title="MAC GÜNDE ACIK",[TR] beIN SPORTS MAX 2 HD
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/66.ts
+#EXTINF:0 group-title="MAC GÜNDE ACIK",[TR] S SPORT
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/80.ts
+#EXTINF:0 group-title="MAC GÜNDE ACIK",[TR] S SPORT 2 HD
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/911.ts
+#EXTINF:0 group-title="MAC GÜNDE ACIK",[TR] SmartSPOR HD
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/74.ts
+#EXTINF:0 group-title="MAC GÜNDE ACIK",[TR] SmartSPOR 2
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/2376.ts
+#EXTINF:0 group-title="MAC GÜNDE ACIK",[TR] TivibuSPOR 1 HD
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/71.ts
+#EXTINF:0 group-title="MAC GÜNDE ACIK",[TR] TivibuSPOR 2 HD
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/72.ts
+#EXTINF:0 group-title="MAC GÜNDE ACIK",[TR] TivibuSPOR 3 HD
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/73.ts
+
+
+
+#EXTINF:-1,MOVIE SMART TURK HD
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/159.ts
+#EXTINF:-1,MOVIE SMART PREMIUM HD
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/160.ts
+#EXTINF:-1,MOVIE SMART PREMIUM 2 HD
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/161.ts
+#EXTINF:-1,MOVIE SMART GOLD HD
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/163.ts
+#EXTINF:-1,MOVIE SMART FEST HD
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/164.ts
+#EXTINF:-1,MOVIE SMART FAMILY HD
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/165.ts
+#EXTINF:-1,MOVIE SMART CLASSIC HD
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/166.ts
+#EXTINF:-1,MOVIE SMART ACTION HD
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/162.ts
+#EXTINF:-1,BeinMOVIES Yesilcam
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/118.ts
+#EXTINF:-1,SERIES VICE HD
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/158.ts
+#EXTINF:-1,beIN SERIES SCI-FI HD
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/157.ts
+#EXTINF:-1,beIN SERIES DRAMA HD
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/156.ts
+#EXTINF:-1,beIN SERIES COMEDY HD
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/155.ts
+#EXTINF:-1,MOVIES TURK HD
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/148.ts
+#EXTINF:-1,beIN MOVIES STARS HD
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/153.ts
+#EXTINF:-1,beIN MOVIES PREMIERE HD
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/149.ts
+#EXTINF:-1,beIN MOVIES PREMIERE 2 HD
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/150.ts
+#EXTINF:-1,beIN MOVIES FAMILY HD
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/154.ts
+#EXTINF:-1,beIN MOVIES ACTION HD
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/151.ts
+#EXTINF:-1,beIN MOVIES ACTION 2 HD
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/152.ts
+#EXTINF:-1,Filmbox PREMIERE
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/2791.ts
+#EXTINF:-1,FiLMBOXHD YESILCAM
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/117.ts
+#EXTINF:-1,FiLMBOXHD YERLi
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/116.ts
+#EXTINF:-1,FiLMBOXHD SCI-FI
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/126.ts
+#EXTINF:-1,FiLMBOXHD KORKU
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/124.ts
+#EXTINF:-1,FiLMBOXHD KEMAL SUNAL TV
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/119.ts
+#EXTINF:-1,FILMBOX ZEKI & METIN TV
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/2796.ts
+#EXTINF:-1,FILMBOX TARIK AKAN TV
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/2797.ts
+#EXTINF:-1,FILMBOX SENER SEN TV
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/2795.ts
+#EXTINF:-1,FILMBOX KADIR INANIR TV
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/2798.ts
+#EXTINF:-1,FILMBOX ILYAS SALMAN TV
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/2799.ts
+#EXTINF:-1,FILMBOX CUNEYT ARKIN TV ᴴᴰ
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/2800.ts
+#EXTINF:-1,FiLMBOXHD FANTASTiK
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/123.ts
+#EXTINF:-1,FiLMBOXHD DRAM
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/125.ts
+#EXTINF:-1,FiLMBOXHD AKSiYON
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/122.ts
+#EXTINF:-1,FiLMBOXHD AiLE
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/121.ts
+
+#EXTINF:-1,FILMBOX SINEVIZYON 1
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/128.ts
+#EXTINF:-1,FILMBOX SINEVIZYON 2
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/129.ts
+#EXTINF:-1,FILMBOX SINEVIZYON 3
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/130.ts
+#EXTINF:-1,FILMBOX SINEVIZYON 4
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/131.ts
+#EXTINF:-1,FILMBOX SINEVIZYON 5
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/132.ts
+#EXTINF:-1,FILMBOX SINEVIZYON 6
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/133.ts
+#EXTINF:-1,FILMBOX SINEVIZYON 7
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/134.ts
+#EXTINF:-1,FILMBOX SINEVIZYON 8
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/135.ts
+#EXTINF:-1,FILMBOX SINEVIZYON 9
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/136.ts
+#EXTINF:-1,FILMBOX SINEVIZYON 10
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/137.ts
+#EXTINF:-1,FILMBOX SINEVIZYON 11
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/138.ts
+#EXTINF:-1,FILMBOX SINEVIZYON 12
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/139.ts
+#EXTINF:-1,FILMBOX SINEVIZYON 13
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/140.ts
+#EXTINF:-1,FILMBOX SINEVIZYON 14
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/141.ts
+#EXTINF:-1,FILMBOX SINEVIZYON 15
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/142.ts
+#EXTINF:-1,FILMBOX SINEVIZYON 16
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/143.ts
+#EXTINF:-1,FILMBOX SINEVIZYON 17
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/144.ts
+#EXTINF:-1,FILMBOX SINEVIZYON 18
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/145.ts
+#EXTINF:-1,FILMBOX SINEVIZYON 19
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/146.ts
+#EXTINF:-1,FILMBOX SINEVIZYON 20
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/147.ts
+
+#EXTINF:-1,SiNEMA TV YERLi HD
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/170.ts
+#EXTINF:-1,SiNEMA TV KOMEDi HD
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/174.ts
+#EXTINF:-1,SiNEMA TV HD
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/171.ts
+#EXTINF:-1,SiNEMA TV AKSiYON HD
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/172.ts
+#EXTINF:-1,SiNEMA TV AiLE HD
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/173.ts
+#EXTINF:-1,DIZI SMART PREMIUM HD
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/167.ts
+#EXTINF:-1,DiZi SMART MAX HD
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/168.ts
+#EXTINF:-1,BeinMOVIES Premiere
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/2402.ts
+#EXTINF:-1,Box Office DUAL
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/2399.ts
+#EXTINF:-1,Box Office 2 DUAL
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/2398.ts
+#EXTINF:-1,Box Office 3 DUAL
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/2397.ts
+#EXTINF:-1,Vizioon Festival
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/2380.ts
+#EXTINF:-1,Vizion Animasyon
+http://visionmedaitv.nl:7444/live/VisionTVPlatformCEP/XujDJYfHLu/2381.ts
