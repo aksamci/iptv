@@ -46,7 +46,7 @@ https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
 #EXTINF:0 group-title="ULUSAL",360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:0 group-title="ULUSAL",DMAX
-https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
+https://59c7ea6bec1c6.streamlock.net/live/dmax.stream/chunklist_w519521610.m3u8
 
 #EXTINF:0 group-title="SPOR",TRT SPOR
 https://tv-trt3.live.trt.com.tr/master_720.m3u8
@@ -594,20 +594,6 @@ https://live-server-2.splitstream.io/fd15e2fa-310e-46fd-8310-a92599e61696/tracks
 https://rtmp-eu.loola.tv:8081/hlspush/ZB8VKS-1uDJ3s.m3u8
 
 
-#EXTINF:-1 tvg-chno="27" tvg-id="" tvg-name="BEINSPORTS 1 SD" tvg-logo="" group-title="MAC GÜNDE ACIK",BEINSPORTS 1 SD
-http://bazarhd.online:80/307210113151/307210113151/80394
-#EXTINF:-1 tvg-chno="28" tvg-id="" tvg-name="BEINSPORTS 1 HD" tvg-logo="" group-title="MAC GÜNDE ACIK",BEINSPORTS 1 HD
-http://bazarhd.online:80/307210113151/307210113151/80393
-#EXTINF:-1 tvg-chno="29" tvg-id="" tvg-name="BEIN SPORTS 1 UHD" tvg-logo="" group-title="MAC GÜNDE ACIK",BEIN SPORTS 1 UHD
-http://bazarhd.online:80/307210113151/307210113151/80392
-#EXTINF:-1 tvg-chno="31" tvg-id="" tvg-name="BEIN SPORTS 2 UHD" tvg-logo="" group-title="MAC GÜNDE ACIK",BEIN SPORTS 2 UHD
-http://bazarhd.online:80/307210113151/307210113151/80391
-#EXTINF:-1 tvg-chno="32" tvg-id="" tvg-name="BEIN SPORTS 1 [SD]" tvg-logo="" group-title="MAC GÜNDE ACIK",BEIN SPORTS 1 [SD]
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/34d756fd89e735c.m3u8
-#EXTINF:-1 tvg-chno="33" tvg-id="" tvg-name="BEIN SPORTS 2 [SD]" tvg-logo="" group-title="MAC GÜNDE ACIK",BEIN SPORTS 2 [SD]
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/11afe2d943098df.m3u8
-#EXTINF:-1 tvg-chno="34" tvg-id="" tvg-name="BEIN SPORTS 3 [SD]" tvg-logo="" group-title="MAC GÜNDE ACIK",BEIN SPORTS 3 [SD]
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/334261d8ed50e1a.m3u8
 #EXTINF:0,aspor
 http://149.255.152.66:8080/asporhd/index.m3u8
 
