@@ -12,7 +12,7 @@ https://tv.ensonhaber.com/tv/tr/startv/index.m3u8
 #EXTINF:0 group-title="ULUSAL",STAR TV HD
 http://mn-nl.mncdn.com/blutv_star/smil:star_sd.smil/playlist.m3u8
 #EXTINF:0 group-title="ULUSAL",EURO STAR
-http://185.226.88.3:1036/live/backup/backup/22.m3u8
+https://mn-nl.mncdn.com/blutv_eurostar/eurostar_sd.smil/playlist.m3u8
 #EXTINF:0 group-title="ULUSAL",KANAL D
 https://kdlive.duhnet.tv/S2/HLS_LIVE/kanaldnp/playlist.m3u8
 #EXTINF:0 group-title="ULUSAL",KANAL D HD
