@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:0 group-title="ULUSAL",TRT1
-https://tv-trt1.live.trt.com.tr/master_720.m3u8
+https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0 group-title="ULUSAL",TRT1 HD
 http://stream.suboroiptv.tv/TRT1/playlist.m3u8
 #EXTINF:0 group-title="ULUSAL",ATV
-https://stream.personamedia.tv/atvhls?fmt=hls
+http://yayin2.tvizlehd.com/atv720.m3u8
 #EXTINF:0 group-title="ULUSAL",ATV HD
 http://yayin2.tvizlehd.com/atv720.m3u8
 #EXTINF:0 group-title="ULUSAL",STAR TV
@@ -28,9 +28,9 @@ https://mn-nl.mncdn.com/blutv_showturk/showturk_sd.smil/chunklist_b2096000.m3u8
 #EXTINF:0 group-title="ULUSAL",FOX TV
 https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd.smil/playlist.m3u8
 #EXTINF:0 group-title="ULUSAL",TV8
-https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_sd.smil/playlist.m3u8
+https://59c7ea6bec1c6.streamlock.net/live/tv8.stream/chunklist_w1151183916.m3u8
 #EXTINF:0 group-title="ULUSAL",TV8 HD
-https://tv8.personamedia.tv/tv8hls?fmt=hls&file=.m3u8
+http://149.255.152.66:8080/tv8hd/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="ULUSAL",TV8 INT
 https://mn-nl.mncdn.com/blutv_tv8_int/smil:tv8int_sd.smil/playlist.m3u8
 #EXTINF:0 group-title="ULUSAL",TV8.5
