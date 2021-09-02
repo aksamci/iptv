@@ -10,7 +10,7 @@ http://yayin2.tvizlehd.com/atv720.m3u8
 #EXTINF:0 group-title="ULUSAL",STAR TV
 https://tv.ensonhaber.com/tv/tr/startv/index.m3u8
 #EXTINF:0 group-title="ULUSAL",STAR TV HD
-http://mn-nl.mncdn.com/blutv_star/smil:star_sd.smil/playlist.m3u8
+https://mn-nl.mncdn.com/blutv_startv_dvr/live.m3u8
 #EXTINF:0 group-title="ULUSAL",EURO STAR
 https://mn-nl.mncdn.com/blutv_eurostar/eurostar_sd.smil/playlist.m3u8
 #EXTINF:0 group-title="ULUSAL",KANAL D
@@ -22,11 +22,11 @@ https://2122248074.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
 #EXTINF:0 group-title="ULUSAL",SHOW TV
 https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
 #EXTINF:0 group-title="ULUSAL",SHOW TV HD
-https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd.smil/playlist.m3u8
+https://mn-nl.mncdn.com/blutv_showtv_dvr/live.m3u8
 #EXTINF:0 group-title="ULUSAL",SHOW TÜRK
 https://mn-nl.mncdn.com/blutv_showturk/showturk_sd.smil/chunklist_b2096000.m3u8
 #EXTINF:0 group-title="ULUSAL",FOX TV
-https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd.smil/playlist.m3u8
+https://mn-nl.mncdn.com/blutv_foxtv_dvr/live.m3u8
 #EXTINF:0 group-title="ULUSAL",TV8
 https://59c7ea6bec1c6.streamlock.net/live/tv8.stream/chunklist_w1151183916.m3u8
 #EXTINF:0 group-title="ULUSAL",TV8 HD
