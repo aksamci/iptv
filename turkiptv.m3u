@@ -16,7 +16,7 @@ https://mn-nl.mncdn.com/blutv_eurostar/eurostar_sd.smil/playlist.m3u8
 #EXTINF:0 group-title="ULUSAL",KANAL D
 https://kdlive.duhnet.tv/S2/HLS_LIVE/kanaldnp/playlist.m3u8
 #EXTINF:0 group-title="ULUSAL",KANAL D HD
-https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_sd.smil/playlist.m3u8
+https://mn-nl.mncdn.com/blutv_kanald_dvr/live.m3u8
 #EXTINF:0 group-title="ULUSAL",EURO D
 https://2122248074.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
 #EXTINF:0 group-title="ULUSAL",SHOW TV
