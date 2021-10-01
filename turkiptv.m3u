@@ -155,6 +155,29 @@ http://51.255.7.18:8080/hls/damar.m3u8
 https://yayin.santraltr.com/hls/zeynotv.m3u8
 
 
+
+#EXTINF:0 group-title="SINEMA",SINEMA TV
+https://live-server-2.splitstream.io/fd15e2fa-310e-46fd-8310-a92599e61696/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="SINEMA",SINEMA PREMIEUM
+https://live-server-2.splitstream.io/1745f91f-1fe3-4cb1-8918-dbd5e140b555/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="SINEMA",SINEMA YESILCAM
+https://vizyontv.yayin.com.tr/yesilcam-nostalji-tv/yesilcam-nostalji-tv/chunklist_w1616277526.m3u8
+#EXTINF:0 group-title="SINEMA",SINEMA TÜRK
+https://vizyontv.yayin.com.tr/turk-sinemasi-tv/turk-sinemasi-tv/chunklist_w1180058443.m3u8
+#EXTINF:0 group-title="SINEMA",SINEMA AKSIYON
+https://d1vftv9up76vki.cloudfront.net/out/v1/6f27e3bde7274af6b06befa08cd839d7/master.m3u8
+#EXTINF:0 group-title="SINEMA",SINEMA KOMEDI
+https://d20aqhpvpegrs2.cloudfront.net/out/v1/d9da7879327241d3831f39b61016a353/master.m3u8
+#EXTINF:0 group-title="SINEMA",SINEMA YERLI
+http://snmtv.ozelip.com:2052/sinematv/sinematv/playlist.m3u8
+#EXTINF:0 group-title="SINEMA",SINEMA SABANTV
+http://fidece38941.ozelip.com:2052/sabantv/sabantv/playlist.m3u8
+#EXTINF:0 group-title="SINEMA",CRI TÜRK DIZI
+https://www.guventechnology.com:19360/CriturkTVDizi/CriturkTVDizi.m3u8
+
+
+
+
 #EXTINF:0 group-title="SINEMA",CRI TÜRK DIZI
 http://cri.aa.net.tr:1935/dizi/dizi/chunklist.m3u8 
 #EXTINF:0 group-title="SINEMA",VIZYON TV
