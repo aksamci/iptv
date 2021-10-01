@@ -6,7 +6,7 @@ https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0 group-title="ULUSAL",ATV
 http://yayin2.tvizlehd.com/atv720.m3u8
 #EXTINF:0 group-title="ULUSAL",ATV HD
-http://yayin2.tvizlehd.com/atv720.m3u8
+http://ozel.canlitvplayer.com:9000/TR_-_ATV_HD_PLUS/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="ULUSAL",STAR TV
 https://tv.ensonhaber.com/tv/tr/startv/index.m3u8
 #EXTINF:0 group-title="ULUSAL",STAR TV HD
@@ -32,7 +32,7 @@ http://163.172.39.215:25461/line/C4@!a3a1@!w72A/72
 #EXTINF:0 group-title="ULUSAL",TV8
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/74
 #EXTINF:0 group-title="ULUSAL",TV8 HD
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/74.m3u8
+http://ozel.canlitvplayer.com:9000/TR_-_TV_8_HD_PLUS/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="ULUSAL",TV8 INT
 http://62.112.9.63:88/TV8_TR/index.m3u8?token=test
 #EXTINF:0 group-title="ULUSAL",TV8.5
@@ -53,7 +53,7 @@ https://59c7ea6bec1c6.streamlock.net/live/dmax.stream/chunklist_w519521610.m3u8
 #EXTINF:0 group-title="SPOR",TRT SPOR
 https://tv-trt3.live.trt.com.tr/master_720.m3u8
 #EXTINF:0 group-title="SPOR",A SPOR
-http://europe2.livetv.az/turkey/sportr2/playlist.m3u8
+http://ozel.canlitvplayer.com:9000/TR_-_A_SPOR_HD_PLUS/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="SPOR",TIVIBU SPOR
 https://tna6.tulix.tv/live/giniko_ginikoturkish_tivibuspor_1200kb_tna6.m3u8
 #EXTINF:0 group-title="SPOR",SPORTS TV
@@ -82,7 +82,7 @@ https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8
 #EXTINF:0 group-title="HABER",24 TV
 https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 #EXTINF:0 group-title="HABER",TVNET
-https://tv.ensonhaber.com/tv/tr/24tv/index.m3u8
+https://tv.ensonhaber.com/tv/tr/tvnet/index.m3u8
 #EXTINF:0 group-title="HABER",ULKE TV
 https://mn-nl.mncdn.com/blutv_ulketv/smil:ulketv_sd.smil/playlist.m3u8
 #EXTINF:0 group-title="HABER",AKiT TV
