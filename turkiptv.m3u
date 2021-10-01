@@ -36,7 +36,7 @@ http://ozel.canlitvplayer.com:9000/TR_-_TV_8_HD_PLUS/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="ULUSAL",TV8 INT
 http://62.112.9.63:88/TV8_TR/index.m3u8?token=test
 #EXTINF:0 group-title="ULUSAL",TV8.5
-https://mn-nl.mncdn.com/blutv_tv8_5/tv8_5_sd.smil/playlist.m3u8
+http://mn-nl.mncdn.com/blutv_tv8_5_dvr/live.m3u8
 #EXTINF:0 group-title="ULUSAL",KANAL 7
 https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
 #EXTINF:0 group-title="ULUSAL",KANAL 7 HD
@@ -48,14 +48,14 @@ https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
 #EXTINF:0 group-title="ULUSAL",360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:0 group-title="ULUSAL",DMAX
-https://59c7ea6bec1c6.streamlock.net/live/dmax.stream/chunklist_w519521610.m3u8
+http://mn-nl.mncdn.com/blutv_dmax_dvr/live.m3u8
 
 #EXTINF:0 group-title="SPOR",TRT SPOR
 https://tv-trt3.live.trt.com.tr/master_720.m3u8
 #EXTINF:0 group-title="SPOR",A SPOR
 http://ozel.canlitvplayer.com:9000/TR_-_A_SPOR_HD_PLUS/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="SPOR",TIVIBU SPOR
-https://tna6.tulix.tv/live/giniko_ginikoturkish_tivibuspor_1200kb_tna6.m3u8
+http://dl1.webtv.ttnet.com.tr/konf/mob/web16009.isml/QualityLevels(1564000)/manifest(format=m3u8-aapl).m3u8
 #EXTINF:0 group-title="SPOR",SPORTS TV
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:0 group-title="SPOR",GS TV
@@ -177,17 +177,6 @@ https://www.guventechnology.com:19360/CriturkTVDizi/CriturkTVDizi.m3u8
 
 
 
-
-#EXTINF:0 group-title="SINEMA",CRI TÜRK DIZI
-http://cri.aa.net.tr:1935/dizi/dizi/chunklist.m3u8 
-#EXTINF:0 group-title="SINEMA",VIZYON TV
-https://vizyontv.yayin.com.tr/vizyontv/vizyontv_1080p/chunklist_w885545282.m3u8
-#EXTINF:0 group-title="SINEMA",SINEMA AKSIYON
-https://d1vftv9up76vki.cloudfront.net/out/v1/6f27e3bde7274af6b06befa08cd839d7/master.m3u8
-#EXTINF:0 group-title="SINEMA",SINEMA KOMEDI
-https://d20aqhpvpegrs2.cloudfront.net/out/v1/d9da7879327241d3831f39b61016a353/master.m3u8
-
-
 #EXTINF:0 group-title="DINI",DIYANET TV
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
 #EXTINF:0 group-title="DINI",KABE TV
@@ -204,7 +193,7 @@ http://137.74.150.14:8080/permabil/DOSTtv/index.m3u8
 http://rehbertv.canliyayin.org/P871000884/rehbertv/chunklist.m3u8
 
 #EXTINF:0 group-title="BELGESEL",TRT BELGESEL
-https://mn-nl.mncdn.com/blutv_trtbelgesel/smil:trtbelgesel_sd.smil/playlist.m3u8
+https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
 #EXTINF:0 group-title="BELGESEL",TGRT BELGESEL
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
 #EXTINF:0 group-title="BELGESEL",CRI TURK BELGESEL
@@ -214,12 +203,10 @@ http://cri.aa.net.tr:1935/belgesel/belgesel/chunklist.m3u8
 https://waw3.artiyerelmedya.net/ciftcitv/bant1/chunks.m3u8
 #EXTINF:0 group-title="TARIM",KÖY TV
 https://59cba4d34b678.streamlock.net/canlitv/koytv/chunklist.m3u8
-#EXTINF:0 group-title="TARIM",AV TV
-https://waw3.artiyerelmedya.net/avtv/bant1/chunks.m3u8
 #EXTINF:0 group-title="TARIM",YABAN TV
 http://yayin3.sanaltv.com:1935/live1/yabantv/chunklist.m3u8
 #EXTINF:0 group-title="TARIM",TARIM TV
-https://usd.nocvp.com/asset/7Gx7kEbk/playlist.m3u8
+https://usd.nocvp.com/asset/8gUsrzk8/chunklist.m3u8
 
 
 #EXTINF:0 group-title="YEREL",EKOTÜRK TV
