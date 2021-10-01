@@ -484,52 +484,6 @@ https://streams.livetv.az/azerbaijan/medeniyyet_stream2/playlist.m3u8
 #EXTINF:0 group-title="AZ",XAZER TV
 https://streams.livetv.az/azerbaijan/xazar_sd_stream_2/playlist.m3u8
 
-#EXTINF:0 group-title="DE",ARD
-https://mcdn.daserste.de/daserste/int/master_608.m3u8
-#EXTINF:0 group-title="DE",3 SAT
-https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
-#EXTINF:0 group-title="DE",WELT
-https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8
-#EXTINF:0 group-title="DE",SERVUS TV DE
-https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master.m3u8
-#EXTINF:0 group-title="DE",BR FERNSEHEN
-https://brlive-lh.akamaihd.net/i/bfssued_germany@119890/master.m3u8
-#EXTINF:0 group-title="DE",HR
-http://livestream-1.hr.de/i/hr_fernsehen@75910/master.m3u8
-#EXTINF:0 group-title="DE",NDR
-https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8
-#EXTINF:0 group-title="DE",SKY SPORT NEWS
-https://websitefreestreaming.akamaized.net/11111_ssnweb/stream01/streamPlaylist.m3u8
-#EXTINF:0 group-title="DE",BAYERN MUNCHEN TV
-https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/wJ3HcQcPAsQaHtAxkJWwrg/index-s36.m3u8
 
 
-#EXTINF:0 group-title="AT",ORF 1
-https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest_4.m3u8
-#EXTINF:0 group-title="AT",ORF 2
-https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest_4.m3u8
-#EXTINF:0 group-title="AT",ORF 3
-https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest_4.m3u8
-#EXTINF:0 group-title="AT",ORF SPORT +
-https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
-#EXTINF:0 group-title="AT",SERVUS TV
-https://rbmn-live.akamaized.net/hls/live/2002825/geoSTVATweb/master.m3u8
-#EXTINF:0 group-title="AT",OKTO TV
-https://d38d1dtxhym0zi.cloudfront.net/LiveHTTPOrigin/okto/chunklist.m3u8
-#EXTINF:0 group-title="AT",ÖE24 TV
-https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/chunklist_b946000.m3u8
-#EXTINF:0 group-title="AT",REDBULL TV
-https://i.mjh.nz/nz/tv.redbull.tv.m3u8
-
-
-#EXTINF:0 group-title="EN",BBC WORLD NEWS
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:0 group-title="EN",Al Jazeera EN
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:0 group-title="EN",France 24 EN
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
-#EXTINF:0 group-title="EN",SKY NEWS
-https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-#EXTINF:0 group-title="EN",CNN EN
-http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 
