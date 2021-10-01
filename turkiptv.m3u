@@ -32,9 +32,9 @@ http://163.172.39.215:25461/line/C4@!a3a1@!w72A/72
 #EXTINF:0 group-title="ULUSAL",TV8
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/74
 #EXTINF:0 group-title="ULUSAL",TV8 HD
-https://live-01.tvjetapp.com/ch-5/live.m3u8
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/74.m3u8
 #EXTINF:0 group-title="ULUSAL",TV8 INT
-https://mn-nl.mncdn.com/blutv_tv8_int/smil:tv8int_sd.smil/playlist.m3u8
+http://62.112.9.63:88/TV8_TR/index.m3u8?token=test
 #EXTINF:0 group-title="ULUSAL",TV8.5
 https://mn-nl.mncdn.com/blutv_tv8_5/tv8_5_sd.smil/playlist.m3u8
 #EXTINF:0 group-title="ULUSAL",KANAL 7
