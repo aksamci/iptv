@@ -6,13 +6,13 @@ https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0 group-title="ULUSAL",ATV
 http://yayin2.tvizlehd.com/atv720.m3u8
 #EXTINF:0 group-title="ULUSAL",ATV HD
-http://ozel.canlitvplayer.com:9000/TR_-_ATV_HD_PLUS/tracks-v1a1/mono.m3u8
+https://trkvz-live.daioncdn.net/atv/atv.m3u8
 #EXTINF:0 group-title="ULUSAL",STAR TV
 https://tv.ensonhaber.com/tv/tr/startv/index.m3u8
 #EXTINF:0 group-title="ULUSAL",STAR TV HD
-https://mn-nl.mncdn.com/blutv_startv_dvr/live.m3u8
+https://dogus-live.daioncdn.net/startv/playlist.m3u8
 #EXTINF:0 group-title="ULUSAL",EURO STAR
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/69
+https://mn-nl.mncdn.com/blutv_eurostar2/live.m3u8
 #EXTINF:0 group-title="ULUSAL",KANAL D
 https://kdlive.duhnet.tv/S2/HLS_LIVE/kanaldnp/playlist.m3u8
 #EXTINF:0 group-title="ULUSAL",KANAL D HD
@@ -24,23 +24,23 @@ https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
 #EXTINF:0 group-title="ULUSAL",SHOW TV HD
 https://mn-nl.mncdn.com/blutv_showtv_dvr/live.m3u8
 #EXTINF:0 group-title="ULUSAL",SHOW TÜRK
-https://mn-nl.mncdn.com/blutv_showturk/showturk_sd.smil/chunklist_b2096000.m3u8
+http://iptvmasterlink.dyndns.org:8080/ShowTurk/playlist.m3u8
 #EXTINF:0 group-title="ULUSAL",FOX TV
 https://mn-nl.mncdn.com/blutv_foxtv_dvr/live.m3u8
 #EXTINF:0 group-title="ULUSAL",FOX TV HD
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/72
+https://59c7ea6bec1c6.streamlock.net/filbox/foxtv.stream/playlist.m3u8
 #EXTINF:0 group-title="ULUSAL",TV8
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/74
+https://59c7ea6bec1c6.streamlock.net/filbox/tv8.stream/playlist.m3u8
 #EXTINF:0 group-title="ULUSAL",TV8 HD
-http://ozel.canlitvplayer.com:9000/TR_-_TV_8_HD_PLUS/tracks-v1a1/mono.m3u8
+https://livex458745.livestreamlive.xyz/tv8.m3u8
 #EXTINF:0 group-title="ULUSAL",TV8 INT
-http://62.112.9.63:88/TV8_TR/index.m3u8?token=test
+https://mn-nl.mncdn.com/blutv_tv8_int2/live.m3u8
 #EXTINF:0 group-title="ULUSAL",TV8.5
 http://mn-nl.mncdn.com/blutv_tv8_5_dvr/live.m3u8
 #EXTINF:0 group-title="ULUSAL",KANAL 7
 https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
 #EXTINF:0 group-title="ULUSAL",KANAL 7 HD
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/83
+https://mn-nl.mncdn.com/blutv_kanal72/live.m3u8
 #EXTINF:0 group-title="ULUSAL",KANAL 7 AVRUPA
 https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 #EXTINF:0 group-title="ULUSAL",BEYAZ TV
@@ -51,26 +51,27 @@ https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 http://mn-nl.mncdn.com/blutv_dmax_dvr/live.m3u8
 
 #EXTINF:0 group-title="SPOR",TRT SPOR
-https://tv-trt3.live.trt.com.tr/master_720.m3u8
+https://mn-nl.mncdn.com/blutv_trtspor2/live.m3u8
 #EXTINF:0 group-title="SPOR",A SPOR
-http://ozel.canlitvplayer.com:9000/TR_-_A_SPOR_HD_PLUS/tracks-v1a1/mono.m3u8
+https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
 #EXTINF:0 group-title="SPOR",TIVIBU SPOR
-http://dl1.webtv.ttnet.com.tr/konf/mob/web16009.isml/QualityLevels(1564000)/manifest(format=m3u8-aapl).m3u8
+https://diss.tvizlehd.com/live/tivibuspor.m3u8
 #EXTINF:0 group-title="SPOR",SPORTS TV
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:0 group-title="SPOR",GS TV
-https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist.m3u8
 #EXTINF:0 group-title="SPOR",TAY TV
-https://mn-nl.mncdn.com/blutv_taytv/smil:taytv_sd.smil/playlist.m3u8
+https://mn-nl.mncdn.com/blutv_taytv2/live.m3u8
 #EXTINF:0 group-title="SPOR",MALATYASPOR TV
 https://592f1881b3d5f.streamlock.net:1443/santraltv_925/santraltv_925/chunklist_w1264533571.m3u8
+
 
 #EXTINF:0 group-title="HABER",TRT HABER
 https://tv-trthaber.live.trt.com.tr/master_720.m3u8
 #EXTINF:0 group-title="HABER",A HABER
-http://149.255.152.66:8080/ahaberhd/index.m3u8
+https://59c7ea6bec1c6.streamlock.net/filbox/ahaber.stream/playlist.m3u8
 #EXTINF:0 group-title="HABER",NTV
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/128
+https://dogus-live.daioncdn.net/ntv/playlist.m3u8
 #EXTINF:0 group-title="HABER",HABER TURK
 https://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8
 #EXTINF:0 group-title="HABER",TGRT HABER
@@ -84,7 +85,7 @@ https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 #EXTINF:0 group-title="HABER",TVNET
 https://tv.ensonhaber.com/tv/tr/tvnet/index.m3u8
 #EXTINF:0 group-title="HABER",ULKE TV
-https://mn-nl.mncdn.com/blutv_ulketv/smil:ulketv_sd.smil/playlist.m3u8
+https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8
 #EXTINF:0 group-title="HABER",AKiT TV
 https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
 #EXTINF:0 group-title="HABER",BLOOMBERG HT
@@ -101,7 +102,7 @@ https://tv-trtavaz.live.trt.com.tr/master.m3u8
 #EXTINF:0 group-title="TR",TRT KURDI
 https://tv-trtkurdi.live.trt.com.tr/master.m3u8
 #EXTINF:0 group-title="TR",A2
-http://163.172.39.215:25461/line/C4@!a3a1@!w72A/89
+http://diss.tvizlehd.com/live/a2tv.m3u8
 #EXTINF:0 group-title="TR",TLC
 https://tv.ensonhaber.com/tv/tr/tlc/index.m3u8
 #EXTINF:0 group-title="TR",TEVE 2
@@ -114,31 +115,31 @@ https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
 https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
 
 
-#EXTINF:0 group-title="COCUK",TRT EBA ILKOKUL
-https://tv-e-okul00.live.trt.com.tr/master.m3u8
-#EXTINF:0 group-title="COCUK",TRT EBA ORTAOKUL
-https://tv-e-okul01.live.trt.com.tr/master.m3u8
-#EXTINF:0 group-title="COCUK",TRT EBA LISE
-https://tv-e-okul02.live.trt.com.tr/master.m3u8
+#EXTINF:0 group-title="COCUK",EBA ILKOKUL
+https://tv-e-okul00.medya.trt.com.tr/master.m3u8
+#EXTINF:0 group-title="COCUK",EBA ORTAOKUL
+https://tv-e-okul01.medya.trt.com.tr/master.m3u8
+#EXTINF:0 group-title="COCUK",EBA LISE
+https://tv-e-okul02.medya.trt.com.tr/master.m3u8
 #EXTINF:0 group-title="COCUK",TRT COCUK
 https://tv-trtcocuk.live.trt.com.tr/master.m3u8
 #EXTINF:0 group-title="COCUK",MINIKA GO
-http://149.255.152.66:8080/minikago/index.m3u8
+http://iptvmasterlink.dyndns.org:8080/MinikaGo/playlist.m3u8
 #EXTINF:0 group-title="COCUK",MINIKA COCUK
-http://149.255.152.66:8080/minikacocuk/index.m3u8
+https://diss.tvizlehd.com/live/minikacocuk.m3u8
 #EXTINF:0 group-title="COCUK",CARTOON NETWORK
-http://149.255.152.66:8080/cartoon/index.m3u8
+http://185.129.1.242:80/cartoonnetworkturk/mpegts
 #EXTINF:0 group-title="COCUK",DISNEY CHANNEL
-http://149.255.152.66:8080/disneychan/index.m3u8
+
 
 #EXTINF:0 group-title="MUZIK",TRT MUZIK
-https://tv-trtmuzik.live.trt.com.tr/master.m3u8
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:0 group-title="MUZIK",MILYON TV
 https://milyontv-live.ercdn.net/milyontv/milyontv_720p.m3u8
 #EXTINF:0 group-title="MUZIK",KRAL TV
-http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
+http://dygvideo.dygdigital.com/live/hls/kraltv?m3u8
 #EXTINF:0 group-title="MUZIK",KRAL POP
-http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
+http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
 #EXTINF:0 group-title="MUZIK",POWER TURK
 https://waw3.artiyerelmedya.net/powerturktv/bant1/chunks.m3u8
 #EXTINF:0 group-title="MUZIK",POWER
@@ -146,9 +147,9 @@ https://waw3.artiyerelmedya.net/powertv/bant1/chunks.m3u8
 #EXTINF:0 group-title="MUZIK",DREAM TURK
 https://2122248083.duhnet.tv//S2/HLS_LIVE/dreamturknp/track_4_1000/playlist.m3u8
 #EXTINF:0 group-title="MUZIK",NUMBER ONE TURK
-https://stream-11.ix7.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDDAt3nBO_HBzbvcK3EgsgyI)/dm/3/x67cguc/s/live-3.m3u8
+https://mn-nl.mncdn.com/blutv_nr1turk2/live.m3u8
 #EXTINF:0 group-title="MUZIK",NUMBER ONE TV
-https://stream-02.dc3.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDM2Xat8qykrpqXWBNLyzea4)/dm/3/x67c77j/s/live-3.m3u8
+https://mn-nl.mncdn.com/blutv_nr12/live.m3u8
 #EXTINF:0 group-title="MUZIK",DAMAR TV
 http://51.255.7.18:8080/hls/damar.m3u8
 #EXTINF:0 group-title="MUZIK",ZEYNO TV
