@@ -507,7 +507,7 @@ http://toptentv.xyz:8080/3143333180178705/2598854265/240266
 #EXTINF:-0,SPORTS 2
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1735
 
-#EXTINF:-1,TR: Sports 1 FHD
+#EXTINF:0 group-title="AZ",Sports 1 FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1735
 #EXTINF:-1,TR: Sports 2 FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1737
