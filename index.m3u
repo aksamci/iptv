@@ -67,7 +67,7 @@ https://592f1881b3d5f.streamlock.net:1443/santraltv_925/santraltv_925/chunklist_
 
 
 #EXTINF:0 group-title="HABER",TRT HABER
-https://tv-trthaber.live.trt.com.tr/master_720.m3u8
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0 group-title="HABER",A HABER
 https://59c7ea6bec1c6.streamlock.net/filbox/ahaber.stream/playlist.m3u8
 #EXTINF:0 group-title="HABER",NTV
@@ -135,7 +135,7 @@ http://185.129.1.242:80/cartoonnetworkturk/mpegts
 #EXTINF:0 group-title="MUZIK",TRT MUZIK
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:0 group-title="MUZIK",MILYON TV
-https://milyontv-live.ercdn.net/milyontv/milyontv_720p.m3u8
+https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
 #EXTINF:0 group-title="MUZIK",KRAL TV
 http://dygvideo.dygdigital.com/live/hls/kraltv?m3u8
 #EXTINF:0 group-title="MUZIK",KRAL POP
@@ -155,6 +155,34 @@ http://51.255.7.18:8080/hls/damar.m3u8
 #EXTINF:0 group-title="MUZIK",ZEYNO TV
 https://yayin.santraltr.com/hls/zeynotv.m3u8
 
+#EXTINF:0 group-title="SINEMA",SINEMA TV
+https://live-server-2.splitstream.io/fd15e2fa-310e-46fd-8310-a92599e61696/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="SINEMA",SINEMA PREMIEUM
+https://live-server-2.splitstream.io/1745f91f-1fe3-4cb1-8918-dbd5e140b555/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="SINEMA",SINEMA YESILCAM
+https://vizyontv.yayin.com.tr/yesilcam-nostalji-tv/yesilcam-nostalji-tv/chunklist_w1616277526.m3u8
+#EXTINF:0 group-title="SINEMA",SINEMA TÜRK
+https://vizyontv.yayin.com.tr/turk-sinemasi-tv/turk-sinemasi-tv/chunklist_w1180058443.m3u8
+#EXTINF:0 group-title="SINEMA",SINEMA YABANCI
+https://live-server-2.splitstream.io/64952c63-8436-4101-8a9e-8d987726e2aa/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="SINEMA",SINEMA YERLI
+https://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks-v1a1/mono.m3u8
+#EXTINF:0 group-title="SINEMA",BLUTV AKSIYON
+https://mn-nl.mncdn.com/blutv_aksiyon/live.m3u8
+#EXTINF:0 group-title="SINEMA",BLUTV KOMEDI
+https://mn-nl.mncdn.com/blutv_komedi/live.m3u8
+#EXTINF:0 group-title="SINEMA",BLUTV NOSTALJI
+https://d1kql9eqq12ti5.cloudfront.net/out/v1/73b6ebdccff34468abfaa716e8114192/master.m3u8
+#EXTINF:0 group-title="SINEMA",BLUTV ÖZEL
+https://mn-nl.mncdn.com/blutv_ozelyapim2/live.m3u8
+#EXTINF:0 group-title="SINEMA",SABAN TV
+https://vizyontv.yayin.com.tr/kemal-sunal-tv/kemal-sunal-tv/chunklist.m3u8
+#EXTINF:0 group-title="SINEMA",CRI TÜRK DIZI
+https://www.guventechnology.com:19360/CriturkTVDizi/CriturkTVDizi.m3u8
+#EXTINF:0 group-title="SINEMA",KANALD DRAMA
+http://93.157.62.180/KanalDDrama/index.m3u8
+#EXTINF:0 group-title="SINEMA",DIZI TV
+http://93.157.62.180/TDC/index.m3u8
 
 
 #EXTINF:0 group-title="SINEMA",SINEMA TV
