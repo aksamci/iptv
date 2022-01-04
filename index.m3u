@@ -184,28 +184,6 @@ http://93.157.62.180/KanalDDrama/index.m3u8
 #EXTINF:0 group-title="SINEMA",DIZI TV
 http://93.157.62.180/TDC/index.m3u8
 
-
-#EXTINF:0 group-title="SINEMA",SINEMA TV
-https://live-server-2.splitstream.io/fd15e2fa-310e-46fd-8310-a92599e61696/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="SINEMA",SINEMA PREMIEUM
-https://live-server-2.splitstream.io/1745f91f-1fe3-4cb1-8918-dbd5e140b555/tracks-v1a1/mono.m3u8
-#EXTINF:0 group-title="SINEMA",SINEMA YESILCAM
-https://vizyontv.yayin.com.tr/yesilcam-nostalji-tv/yesilcam-nostalji-tv/chunklist_w1616277526.m3u8
-#EXTINF:0 group-title="SINEMA",SINEMA TÜRK
-https://vizyontv.yayin.com.tr/turk-sinemasi-tv/turk-sinemasi-tv/chunklist_w1180058443.m3u8
-#EXTINF:0 group-title="SINEMA",SINEMA AKSIYON
-https://d1vftv9up76vki.cloudfront.net/out/v1/6f27e3bde7274af6b06befa08cd839d7/master.m3u8
-#EXTINF:0 group-title="SINEMA",SINEMA KOMEDI
-https://d20aqhpvpegrs2.cloudfront.net/out/v1/d9da7879327241d3831f39b61016a353/master.m3u8
-#EXTINF:0 group-title="SINEMA",SINEMA YERLI
-http://snmtv.ozelip.com:2052/sinematv/sinematv/playlist.m3u8
-#EXTINF:0 group-title="SINEMA",SINEMA SABANTV
-http://fidece38941.ozelip.com:2052/sabantv/sabantv/playlist.m3u8
-#EXTINF:0 group-title="SINEMA",CRI TÜRK DIZI
-https://www.guventechnology.com:19360/CriturkTVDizi/CriturkTVDizi.m3u8
-
-
-
 #EXTINF:0 group-title="DINI",DIYANET TV
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
 #EXTINF:0 group-title="DINI",KABE TV
@@ -227,7 +205,6 @@ https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
 #EXTINF:0 group-title="BELGESEL",CRI TURK BELGESEL
 http://cri.aa.net.tr:1935/belgesel/belgesel/chunklist.m3u8
-
 #EXTINF:0 group-title="BELGESEL",CIFTCI TV
 https://waw3.artiyerelmedya.net/ciftcitv/bant1/chunks.m3u8
 #EXTINF:0 group-title="BELGESEL",KÖY TV
@@ -520,17 +497,8 @@ https://streams.livetv.az/azerbaijan/xazar_sd_stream_2/playlist.m3u8
 
 
 
-#EXTINF:0,ÖZEL YAPIM
-https://mn-nl.mncdn.com/blutv_ozelyapim2/live.m3u8
-#EXTINF:0,AKSIYON
-https://mn-nl.mncdn.com/blutv_aksiyon/live.m3u8
-#EXTINF:0,KOMEDI
-https://mn-nl.mncdn.com/blutv_komedi/live.m3u8
-#EXTINF:0,BELGESEL
-https://d1grcygon2cylc.cloudfront.net/out/v1/39e430e8c1ce4a8d8176c7be8c743529/index.m3u8
-#EXTINF:0,NOSTALJI
-https://d1kql9eqq12ti5.cloudfront.net/out/v1/73b6ebdccff34468abfaa716e8114192/master.m3u8
-#EXTINF:0,SPORTS 11112
+
+#EXTINF:0 group-title="AZ",SPORTS 11112
 http://toptentv.xyz:8080/3143333180178705/2598854265/240266
 
 
